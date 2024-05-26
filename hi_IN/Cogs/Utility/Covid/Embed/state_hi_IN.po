@@ -1,0 +1,84 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 15:55+0530\n"
+"PO-Revision-Date: 2022-01-21 19:35+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: state.py:41
+msgid "Date of statistics"
+msgstr "आँकड़ों की तिथि"
+
+#: state.py:42
+msgid "as on {dt_time}"
+msgstr "{dt_time} पर उपलब्ध आङ्कड़ों के अनुसार"
+
+#: state.py:52
+msgid "Active cases"
+msgstr "सक्रिय मामले"
+
+#: state.py:60
+msgid "Recovered"
+msgstr "रोगमुक्त"
+
+#: state.py:68
+msgid "Deceased"
+msgstr "मृत"
+
+#: state.py:76
+msgid "Infected today"
+msgstr "आज सङ्क्रमित हुए"
+
+#: state.py:81
+msgid "Cured today"
+msgstr "आज रोगमुक्त हुए"
+
+#: state.py:88
+msgid "reconciled"
+msgstr "समायोजित"
+
+#: state.py:91
+msgid "Deceased today"
+msgstr "आज चल बसे"
+
+#: state.py:96
+msgid "Total cases"
+msgstr "कुल सङ्क्रमित"
+
+#: state.py:112
+msgid "Positivity rate"
+msgstr "सक्रियता दर"
+
+#: state.py:117
+msgid "Vaccination centers"
+msgstr "टीकाकरण केन्द्र"
+
+#: state.py:123
+msgid "Dose 1"
+msgstr "पहला टीका"
+
+#: state.py:127
+msgid "Dose 2"
+msgstr "दूसरा टीका"
+
+#: state.py:131
+msgid "Dose 3"
+msgstr "तीसरा टीका"
+
+#: state.py:138
+msgid "Vaccine doses administered"
+msgstr "टीकाकरण की सङ्ख्या"

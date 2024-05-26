@@ -1,0 +1,32 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-05 22:02+0530\n"
+"PO-Revision-Date: 2021-08-06 22:20+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: copy_emojis.py:80
+msgid "{fool} mod, give `manage emojis` perm."
+msgstr "{fool} नियामक, पहले मुझे `इमोजी प्रबन्धन` के अधिकार दो।"
+
+#: copy_emojis.py:86
+msgid "{fool} mod, give `add reaction` perm."
+msgstr "{fool} नियामक, पहले मुझे `प्रतिक्रिया जोड़ने` के अधिकार दो।"
+
+#: copy_emojis.py:98
+msgid "You have to either `export` to a server or `import`."
+msgstr "आपको या तो किसी सङ्घ को `निर्यात` करना होगा या तो किसी सङ्घ से `आयात` करना होगा।"

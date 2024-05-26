@@ -1,0 +1,32 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-07-31 14:15+0530\n"
+"PO-Revision-Date: 2021-07-31 14:36+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: invite.py:24
+msgid "Here's the invite link!"
+msgstr "आमन्त्रण क्षेत्र !"
+
+#: invite.py:26
+msgid "Click here to invite me!"
+msgstr "मुझे आमन्त्रित करने के लिए यहाँ दबाएँ !"
+
+#: invite.py:28
+msgid "You may see my old name, don't worry!"
+msgstr "आमन्त्रित करते समय आप शायद मेरा पुराना नाम देखें। चिन्तित न हों, वह मैं ही हूँ!"

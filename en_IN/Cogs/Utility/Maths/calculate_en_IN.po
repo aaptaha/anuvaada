@@ -1,0 +1,56 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-20 23:37+0530\n"
+"PO-Revision-Date: 2022-01-21 16:36+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: calculate.py:65
+msgid "{fool}, what to evaluate? How evaluate nothingness?"
+msgstr "{fool}, what do you want to evaluate? How do you evaluate nothingness?"
+
+#: calculate.py:76
+msgid "Non-ASCII characters (except {syms}) are disallowed."
+msgstr "Non-ASCII characters (except {syms}) are disallowed."
+
+#: calculate.py:100
+msgid "Unsupported expression. Check help."
+msgstr "Unsupported expression. Please check this command's help."
+
+#: calculate.py:145
+msgid "❌ Error(s) encountered"
+msgstr "❌ Error(s) encountered"
+
+#: calculate.py:148
+msgid "🔢 Crunched the numbers"
+msgstr "🔢 Crunched the numbers"
+
+#: calculate.py:155
+msgid "Expression"
+msgstr "Expression"
+
+#: calculate.py:160
+msgid "Error(s)"
+msgstr "Error(s)"
+
+#: calculate.py:163
+msgid "Result"
+msgstr "Result"
+
+#: calculate.py:167
+msgid "If you like, please [vote and review me]({link})!"
+msgstr "If you like, please [vote and review me]({link})!"

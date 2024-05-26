@@ -1,0 +1,99 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:52+0530\n"
+"PO-Revision-Date: 2021-10-25 19:49+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: unmute.py:42
+msgid "{fool} mod, give `manage roles` perm."
+msgstr "{fool} नियामक, पहले मुझे `उपाधि प्रबन्धन` की अनुमति दो।"
+
+#: unmute.py:70
+msgid "I have perm, but can't remove, as mute role is higher. Promote me."
+msgstr ""
+"हाँलाकि मेरे पास उपाधि प्रबन्धन की अनुमति है, मैं निर्मूक सकता, चूँकि वह पदानुक्रम में मुझसे उपर है। कृपया "
+"मेरी पदोन्नति करें।"
+
+#: unmute.py:77
+msgid "You have perm, but can't remove, as mute role is higher. Ask for promotion."
+msgstr ""
+"हाँलाकि आपके पास उपाधि प्रबन्धन की अनुमति है, आप मूक (चुप्पी वाली) उपाधि नही हटा सकते, चूँकि वह "
+"पदानुक्रम में आपसे उपर है। पदोन्नति का आवेदन करें।"
+
+#: unmute.py:105
+msgid "{member} is not muted by me!"
+msgstr "{member} को मैंने चुप नही किया है!"
+
+#: unmute.py:108
+msgid "{members} are not muted by me!"
+msgstr "{members} को मैंने चुप नही किया है!"
+
+#: unmute.py:112
+msgid "Perhaps you wanted to mute?"
+msgstr "सम्भवतः आप चुप करना चाहते हो?"
+
+#: unmute.py:116
+msgid "{fool} mod changed roles for {members}. I'll overwrite."
+msgstr ""
+"किसी {fool} नियामक ने अपने आप ही {members} की उपाधिओं में बदलाव किया था। मैं मूक करने के पूर्व जैसी "
+"उपाधियाँ थी वैसी ही कर दुँगा।"
+
+#: unmute.py:152
+msgid "I have perm, but can't unmute, as {member} had higher role earlier. Promote me."
+msgstr ""
+"हाँलाकि मेरे पास उपाधि प्रबन्धन की अनुमति है, मैं {member} को निर्मूक नही कर सकता, चूँकि उनकी एक "
+"उपाधि (जो चुप करने से पहले थी) मुझसे उपर है। कृपया मेरी पदोन्नति करें।"
+
+#: unmute.py:161
+msgid ""
+"You have perm, but can't unmute, as {member} had higher role earlier. Ask for promotion."
+msgstr ""
+"हाँलाकि आपके पास उपाधि प्रबन्धन की अनुमति है, आप {member} को निर्मूक नही कर सकते, चूँकि उनकी एक "
+"उपाधि (जो चुप करने से पहले थी) आपसे उपर है। पदोन्नति का आवेदन करें।"
+
+#: unmute.py:181
+msgid "All roles for {member} might be deleted, not unmuting."
+msgstr ""
+"{member} के चुप करने से पहले की सारी उपाधियाँ अब सम्भवतः लुप्त हो गई हैं, इसलिए उनको निर्मूक नही कर "
+"रहा।"
+
+#: unmute.py:187
+msgid "Some roles for {member} might be deleted, skipping those."
+msgstr ""
+"{member} के चुप करने से पहले की थोड़ी उपाधियाँ अब सम्भवतः लुप्त हो गई हैं, इसलिए उन उपाधिओं को वापस "
+"प्रदान करने का प्रयास नही कर रहा।"
+
+#: unmute.py:206
+msgid "Cannot unmute anyone!"
+msgstr "किसी को भी निर्मूक नही कर सका!"
+
+#: unmute.py:212
+msgid "Successfully unmuted!"
+msgstr "सफलतापूर्वक निर्मूक किया गया!"
+
+#: unmute.py:213
+msgid "{members} can now chill with us!"
+msgstr "{members} अब हमारे साथ मौज कर सकते हैं!"
+
+#: unmute.py:217 unmute.py:220
+msgid "Reason:"
+msgstr "कारण :"
+
+#: unmute.py:224
+msgid "Unmuted"
+msgstr "निर्मूक"

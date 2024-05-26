@@ -1,0 +1,80 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2022-09-24 14:43+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: kick.py:37
+msgid "{fool} mod, give `kick members` perm."
+msgstr "{fool} नियामक, पहले मुझे `सदस्य निष्कासित करने` की अनुमति दो।"
+
+#: kick.py:55
+msgid ""
+"You have been kicked from {guild} for:\n"
+"{reason}"
+msgstr ""
+"निम्नलिखित कारणवश आपको {guild} से निष्कासित कर दिया गया है:\n"
+"{reason}"
+
+#: kick.py:72
+msgid "{fool}, why take away kick perm from me?"
+msgstr "{fool}, जब मुझे सदस्य निकालने के लिए कहा है तो क्यों मुझसे वही कार्य करने की अनुमति छीन रहे हो?"
+
+#: kick.py:77
+msgid "Kicking failed. Please report in the Meta server!"
+msgstr "निष्कासन विफल रहा। कृपया विचारस्थल में सूचित करें!"
+
+#: kick.py:92
+msgid "Kicked successfully!"
+msgstr "सफलतापूर्वक निकाला गया!"
+
+#: kick.py:93
+msgid "Kicked"
+msgstr "निष्कासित"
+
+#: kick.py:101
+msgid "Kicked users:"
+msgstr "निष्कासित उपयोक्ता :"
+
+#: kick.py:102
+msgid "Kicked user IDs:"
+msgstr "निष्कासित उपाभिधान :"
+
+#: kick.py:109
+msgid "Too many people kicked!"
+msgstr "बहुत सारे उपयोक्ताओं को निष्कासित किया गया!"
+
+#: kick.py:111
+msgid "Users"
+msgstr "उपयोक्ता"
+
+#: kick.py:111
+msgid "User"
+msgstr "उपयोक्ता"
+
+#: kick.py:114
+msgid "IDs"
+msgstr "उपाभिधान"
+
+#: kick.py:114
+msgid "ID"
+msgstr "उपाभिधान"
+
+#: kick.py:117
+msgid "Reason"
+msgstr "कारण"

@@ -1,0 +1,58 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-05 22:02+0530\n"
+"PO-Revision-Date: 2021-08-06 21:23+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: export_emojis.py:32
+msgid "{fool}, importing already in other server. Be patient."
+msgstr "{fool}, तुमने पहले से ही एक जगह आयात की प्रक्रिया आरम्भ कर दी है। धैर्य रखो!"
+
+#: export_emojis.py:34
+msgid "{fool}, already ran export command in another server!"
+msgstr "{fool}, तुम पहले से ही किसी और सङ्घ में निर्यात का निर्देश दे चुके हो। मति बढ़ाने के लिए आम्ला खाना आराम्भ कर दो!"
+
+#: export_emojis.py:43
+msgid ""
+"Lol {fool}, no custom emojis here!\n"
+"If opened picker..."
+msgstr ""
+"अर्रे {fool}, यहाँ कोई भी अनुकूलित इमोजी नही है!\n"
+"यदि तुमने एक बार इमोजी चयनपृष्ठ खोला होता..."
+
+#: export_emojis.py:50
+msgid ""
+"{fool}, export to server only.\n"
+"Give ID. Use `server` cmd."
+msgstr ""
+"{fool}, तुम केवल किसी और सङ्घ को `निर्यात` कर सकते हो!\n"
+"कृपया सङ्घ का क्रमाङ्क दें। तुम इसके लिए `सङ्घ` निर्देश का उपयोग कर सकते हो।"
+
+#: export_emojis.py:60
+msgid "Either I'm not in server, or server ID {ID} doesn't exist"
+msgstr "या तो मैं उस सङ्घ में नही हूँ, या तो {ID} क्रमाङ्क रखने वाला सङ्घ अस्तित्व में ही नही है।"
+
+#: export_emojis.py:70
+msgid "Now run `import` in {server} under 1m. Hope you've read help."
+msgstr ""
+"अब आपको {} में अगले १ मिनट के अन्दर `आयात` निर्देश का उपयोग करना है।\n"
+"आशा है कि आपने सहायता पढ़ी होगा।"
+
+#: export_emojis.py:72
+msgid "Okay!"
+msgstr "ठीक है!"

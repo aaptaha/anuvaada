@@ -1,0 +1,67 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 18:37+0530\n"
+"PO-Revision-Date: 2021-10-25 18:38+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: validation.py:44
+msgid "Are you trigger-happy?"
+msgstr "Are you trigger-happy?"
+
+#: validation.py:66
+msgid "Pass ownership to someone else, {fool}."
+msgstr "Pass ownership to someone else, {fool}."
+
+#: validation.py:136
+msgid "No reason... Why? Bad mod."
+msgstr "No reason... Why? Bad mod."
+
+#: validation.py:140
+msgid "No reason given."
+msgstr "No reason given."
+
+#~ msgid ""
+#~ "Who you {str_action}ing, {fool}?\n"
+#~ "Are you trigger-happy?"
+#~ msgstr ""
+#~ "Who you {str_action}ing, {fool}?\n"
+#~ "Are you trigger-happy?"
+
+#~ msgid "Not {str_action}ing myself. Why {action} me :("
+#~ msgstr "Not {str_action}ing myself. Why {action} me :("
+
+#~ msgid "{owner}, {member} wanna get {str_action}ed. I've got no perms."
+#~ msgstr ""
+#~ "Hey {owner}, {member} wanna get {str_action}ed. I don't have permission "
+#~ "to do so."
+
+#~ msgid "Why?...... Okay, {action} yourself."
+#~ msgstr "Why?...... Okay, {action} yourself."
+
+#~ msgid "I cannot {action} {member}, promote me."
+#~ msgstr "I cannot {action} {member}, promote me."
+
+#~ msgid "You cannot {action} {member}, promote yourself."
+#~ msgstr "You cannot {action} {member}, get a promotion."
+
+#~ msgid "Cannot {action} anyone mentioned! :("
+#~ msgstr "Cannot {action} anyone mentioned! :("
+
+#~ msgid "{user} gave no reason for {str_action}ing."
+#~ msgstr "{user} gave no reason for {str_action}ing."

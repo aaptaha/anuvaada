@@ -1,0 +1,146 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 20:40+0530\n"
+"PO-Revision-Date: 2022-01-21 20:43+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: server.py:58
+msgid "No custom invite background set for this server!"
+msgstr "इस सङ्घ ने कोई आमन्त्रण पृष्ठभूमिपत्र नही रखा है!"
+
+#: server.py:60
+msgid "Get to lvl 1 first!"
+msgstr "थोड़े बूस्टर ढूँढें और इस सङ्घ को पहले स्तर पर लाएँ!"
+
+#: server.py:69
+msgid "No banner set for this server!"
+msgstr "इस सङ्घ ने कोई प्रतिकृति नही रखी है!"
+
+#: server.py:71
+msgid "Get to lvl 2 first!"
+msgstr "थोड़े बूस्टर ढूँढें और इस सङ्घ को दूसरे स्तर पर लाएँ!"
+
+#: server.py:80
+msgid "No discovery splash set for this server!"
+msgstr "इस सङ्घ ने कोई खोज पृष्ठभूमिपत्र नही रखा है!"
+
+#: server.py:82
+msgid "Get this server on server discovery first!"
+msgstr "पहले इस सङ्घ को सङ्घ खोज सूची में डालें!"
+
+#: server.py:89
+msgid "ID"
+msgstr "क्रमाङ्क"
+
+#: server.py:92
+msgid "Owner"
+msgstr "स्वामी"
+
+#: server.py:96
+msgid "Founded on"
+msgstr "स्थापना"
+
+#: server.py:98
+msgid "Level"
+msgstr "स्तर"
+
+#: server.py:102
+msgid "Boosts"
+msgstr "बूस्ट"
+
+#: server.py:109
+msgid "{num_total_stickers} [{num_animated_stickers} animated]"
+msgstr "{num_total_stickers} [{num_animated_stickers} गतिमान]"
+
+#: server.py:114
+msgid "Sticker count"
+msgstr "स्टिकर सङ्ख्या"
+
+#: server.py:116
+msgid "Member count"
+msgstr "सदस्य सङ्ख्या"
+
+#: server.py:119
+msgid "Role count"
+msgstr "उपाधि सङ्ख्या"
+
+#: server.py:123
+msgid "{num_total_emojis} [{num_animated_emojis} animated]"
+msgstr "{num_total_emojis} [{num_animated_emojis} गतिमान]"
+
+#: server.py:128
+msgid "Emoji count"
+msgstr "इमोजी सङ्ख्या"
+
+#: server.py:135
+msgid "Highest"
+msgstr "सर्वाधिक"
+
+#: server.py:137
+msgid "High"
+msgstr "अधिक"
+
+#: server.py:139
+msgid "Medium"
+msgstr "मध्यम"
+
+#: server.py:141
+msgid "Low"
+msgstr "निम्न"
+
+#: server.py:143 server.py:154
+msgid "None"
+msgstr "कुछ नही"
+
+#: server.py:147
+msgid "Verification level"
+msgstr "सत्यापन स्तर"
+
+#: server.py:150
+msgid "Yes"
+msgstr "हाँ"
+
+#: server.py:150
+msgid "No"
+msgstr "नही"
+
+#: server.py:151
+msgid "2FA enabled"
+msgstr "द्वि॰च॰स॰ सक्षम"
+
+#: server.py:157
+msgid "System messages channel"
+msgstr "संविधा सन्देश चैनल"
+
+#: server.py:159
+msgid "Number of categories"
+msgstr "वर्गों की सङ्ख्या"
+
+#: server.py:163
+msgid "{num_channels} [{num_text} text, {num_vc} voice, and {num_stage} stage]"
+msgstr ""
+"{num_channels} [{num_text} लिखित, {num_vc} मौखिक, और {num_stage} रङ्गमञ्च]"
+
+#: server.py:171
+msgid "Number of channels"
+msgstr "चैनलों की सङ्ख्या"
+
+#: server.py:176
+msgid "Features"
+msgstr "वैशिष्ट्य"

@@ -1,0 +1,40 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-01 16:46+0530\n"
+"PO-Revision-Date: 2021-08-01 17:39+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: vigenere.py:45
+msgid "Give something to encrypt, {fool}."
+msgstr "{fool}, कुछ तो सङ्कूटन करने के लिए दो।"
+
+#: vigenere.py:50
+msgid "Give the key to encrypt, {fool}."
+msgstr "{fool}, सङ्कूटन करने की कुञ्जी तो दो।"
+
+#: vigenere.py:57
+msgid "Vigenère cipher supports only ASCII alphabetical key."
+msgstr "विजिनीयर गूढाक्षरक्रम केवल ASCII वर्णमाला की कुञ्जीयों पर काम करता है।"
+
+#: vigenere.py:110
+msgid "Decrypted"
+msgstr "निष्कूटित"
+
+#: vigenere.py:110
+msgid "Encrypted"
+msgstr "सङ्कूटित"

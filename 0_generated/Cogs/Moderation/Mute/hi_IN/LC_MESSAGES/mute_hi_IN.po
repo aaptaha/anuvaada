@@ -1,0 +1,86 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 18:37+0530\n"
+"PO-Revision-Date: 2021-10-25 19:51+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: mute.py:42
+msgid "{fool} mod, give `manage roles` perm."
+msgstr "{fool} नियामक, पहले मुझे `उपाधि प्रबन्धन` की अनुमति दो।"
+
+#. TRANSLATORS: This is a command line flag, include -- at start
+#: mute.py:49
+msgid "--force"
+msgstr "--प्रत्यादेश"
+
+#: mute.py:81
+msgid "I have perm, but can't add, as mute role is higher. Promote me."
+msgstr ""
+"हाँलाकि मेरे पास उपाधि प्रबन्धन की अनुमति है, मैं मूक (चुप्पी वाली) उपाधि नही दे सकता, चूँकि वह "
+"पदानुक्रम में मुझसे उपर है। कृपया मेरी पदोन्नति करें।"
+
+#: mute.py:88
+msgid "You have perm, but can't add, as mute role is higher. Ask for promotion."
+msgstr ""
+"हाँलाकि आपके पास उपाधि प्रबन्धन की अनुमति है, आप मूक (चुप्पी वाली) उपाधि नही दे सकते, चूँकि वह "
+"पदानुक्रम में आपसे उपर है। पदोन्नति का आवेदन करें।"
+
+#: mute.py:118
+msgid "{member} is already muted by me!"
+msgstr "{member} को पहले से ही मैंने चुप कर रखा है!"
+
+#: mute.py:121
+msgid "{members} are already muted by me!"
+msgstr "{members} को पहले से ही मैंने चुप कर रखा है!"
+
+#: mute.py:125
+msgid "Perhaps you wanted to unmute?"
+msgstr "सम्भवतः आप निर्मूक करना चाहते हो?"
+
+#: mute.py:129
+msgid ""
+"Use `--force` for {members} if sure, sometimes {fool} mod manually unmutes instead of "
+"using `unmute`."
+msgstr ""
+"अगर आप निश्चित हैं कि {members} को चुप करना है, तो कारण से पहले `--प्रत्यादेश` का उपयोग करें।\n"
+"कभी-कभार ऐसा हो जाता है कि कोई {fool} नियामक ने बिना `निर्मूक` निदेश का उपयोग करे स्वयं अपने "
+"हाथ से ही निर्मूक कर दिया हो।"
+
+#: mute.py:169
+msgid "Muted the motormouth!"
+msgstr "बक-बकिए को चुप कर दिया!"
+
+#: mute.py:170
+msgid "{member} needs to shut up and relax!"
+msgstr "{member} को शान्ति से चुप रहकर आराम करना चाहिए!"
+
+#: mute.py:173
+msgid "Muted the motormouths!"
+msgstr "बक-बक करने वालों को चुप कर दिया!"
+
+#: mute.py:174
+msgid "{members} need to shut up and relax!"
+msgstr "{members} को शान्ति से चुप रहकर आराम करना चाहिए!"
+
+#: mute.py:179 mute.py:182
+msgid "Reason:"
+msgstr "कारण :"
+
+#: mute.py:185
+msgid "Muted"
+msgstr "चुप किया गया"

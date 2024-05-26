@@ -1,0 +1,56 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2021-10-25 17:37+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ban_validation_strings.py:24
+msgid "Who are you banning, {fool}?"
+msgstr "Who are you banning, {fool}?"
+
+#: ban_validation_strings.py:27
+msgid "Not banning myself. Why ban me :("
+msgstr "Not banning myself. Why ban me :("
+
+#: ban_validation_strings.py:30
+msgid "{owner}, {member} wanna get banned. I've got no perms."
+msgstr ""
+"Hey {owner}, {member} wanna get banned.\n"
+"I would have done it for you like the good friend I am, but I don't "
+"have the permission to do so."
+
+#: ban_validation_strings.py:35
+msgid "Why?...... Okay, ban yourself."
+msgstr "Why?...... Okay, ban yourself."
+
+#: ban_validation_strings.py:38
+msgid "I cannot ban {member}, promote me."
+msgstr "I cannot ban {member}, promote me."
+
+#: ban_validation_strings.py:41
+msgid "You cannot ban {member}, get a promotion."
+msgstr "You cannot ban {member}, get a promotion."
+
+#: ban_validation_strings.py:44
+msgid "Cannot ban anyone mentioned! :("
+msgstr "Cannot ban anyone you mentioned! :("
+
+#: ban_validation_strings.py:47
+msgid "{user} gave no reason for banning."
+msgstr "{user} gave no reason for banning."

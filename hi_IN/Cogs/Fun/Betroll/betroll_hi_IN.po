@@ -1,0 +1,64 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-07 16:07+0530\n"
+"PO-Revision-Date: 2021-08-07 16:29+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: Betroll/betroll.py:59
+msgid ""
+"Please bet some money.\n"
+"Ain't getting free money, {fool}."
+msgstr ""
+"कृपया द्यूत में थोड़ा पैसा लगाओ।\n"
+"तुम्हें मुफ़्त में कोई पैसा नही मिलने वाला, {fool}।"
+
+#: Betroll/betroll.py:81
+msgid "You are broke, {fool}."
+msgstr "{fool} तुम तो सड़क पर आ जाओगे।"
+
+#: Betroll/betroll.py:82
+msgid "You only have ₹{money}."
+msgstr "तुम्हारे पास केवल ₹{money} हैं।"
+
+#: Betroll/betroll.py:96
+msgid "Rolling"
+msgstr "पासा फेंका जा रहा है"
+
+#: Betroll/betroll.py:97
+msgid "Rolled"
+msgstr "पासा फेंका गया"
+
+#: Betroll/betroll.py:127
+msgid "Congratulations!"
+msgstr "बधाई हो!"
+
+#: Betroll/betroll.py:128 Betroll/betroll.py:140
+msgid "You rolled {result}!"
+msgstr "पासे पर {result} आया है!"
+
+#: Betroll/betroll.py:129
+msgid "You bet ₹{amount} and won ₹{won}!"
+msgstr "आपने ₹{amount} का दाँव लगाया और ₹{won} जीत गए!"
+
+#: Betroll/betroll.py:139
+msgid "Ouch!"
+msgstr "ओफ़्फ़ो"
+
+#: Betroll/betroll.py:141
+msgid "Told you gambling is bad."
+msgstr "बोला था सट्टेबाज़ी मत करो।"

@@ -1,0 +1,104 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-06 11:21+0530\n"
+"PO-Revision-Date: 2021-08-06 12:55+0530\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_IN\n"
+
+#: ../Limit/limit_emoji.py:75
+msgid "{fool} mod, give `manage emojis` perm."
+msgstr "{fool} mod, gimme `manage emojis` permission first."
+
+#: ../Limit/limit_emoji.py:81
+msgid ""
+"What are you limiting?\n"
+"Who made you a moderator?"
+msgstr ""
+"What are you limiting?\n"
+"Who made you a moderator?"
+
+#: ../Limit/limit_emoji.py:87
+msgid ""
+"Nice try, but I'm not Thanos.\n"
+"Try next time with __this server's__ custom emojis."
+msgstr ""
+"Nice try, but I'm not Thanos.\n"
+"Try next time with __this server's__ custom emojis."
+
+#: ../Limit/limit_emoji.py:98
+msgid "Which roles are you disallowing?"
+msgstr "Which roles are you disallowing?"
+
+#: ../Limit/limit_emoji.py:100
+msgid "Which roles are you allowing?"
+msgstr "Which roles are you allowing?"
+
+#: ../Limit/limit_emoji.py:101
+msgid "This emoji is already unrestricted. Quit being a mod."
+msgstr "This emoji is already unrestricted. Quit being a mod."
+
+#: ../Limit/limit_emoji.py:104
+msgid "Free speech imposed by {mod}."
+msgstr "Free speech imposed by {mod}."
+
+#: ../Limit/limit_emoji.py:107
+msgid ":{emoj}: is now unrestricted!"
+msgstr ":{emoj}: is now unrestricted!"
+
+#: ../Limit/limit_emoji.py:108
+msgid "Allowed everyone to use that emoji!"
+msgstr "Allowed everyone to use that emoji!"
+
+#: ../Limit/limit_emoji.py:122
+msgid "Exclusivity imposed by {mod}."
+msgstr "Exclusivity imposed by {mod}."
+
+#: ../Limit/limit_emoji.py:125
+msgid ""
+"An error occurred. Try again __later__.\n"
+"(Forbidden 403)"
+msgstr ""
+"An error occurred. Try again __later__.\n"
+"(Forbidden 403)"
+
+#: ../Limit/limit_emoji.py:128
+msgid ""
+"An error occurred. Try again __later__.\n"
+"(Code {code})"
+msgstr ""
+"An error occurred. Try again __later__.\n"
+"(Code {code})"
+
+#: ../Limit/limit_emoji.py:132
+msgid "An error occurred. Try again __later__."
+msgstr "An error occurred. Try again __later__."
+
+#: ../Limit/limit_emoji.py:135
+msgid ":{emoji}: is now restricted!"
+msgstr ":{emoji}: is now restricted!"
+
+#: ../Limit/limit_emoji.py:137
+msgid "Successfully disallowed roles to use emoji {emoji}"
+msgstr "Successfully disallowed all the specified roles to use emoji {emoji}."
+
+#: ../Limit/limit_emoji.py:139
+msgid "Successfully allowed only roles to use emoji {emoji}"
+msgstr "Successfully allowed only the specified roles to use emoji {emoji}."
+
+#: ../Limit/limit_emoji.py:141
+msgid "Note: Due to this, @everyone is disallowed to use it."
+msgstr "Note: Due to this, the default role `@everyone` is disallowed to use it."

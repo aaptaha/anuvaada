@@ -1,0 +1,43 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-06 11:21+0530\n"
+"PO-Revision-Date: 2021-08-06 22:30+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: ../Enlarge/emoji.py:37
+msgid "Where's the __custom__ emoji (or its ID) to enlarge?"
+msgstr "__अनुकूलित__ इमोजी (या उसका क्रमाङ्क) कहाँ है जिसे बड़ा करना है?"
+
+#: ../Enlarge/emoji.py:95 ../Enlarge/emoji.py:99
+msgid "Assuming a static emoji."
+msgstr "स्थिर इमोजी मान लेते हैं।"
+
+#: ../Enlarge/emoji.py:103
+msgid "This shouldn't have happened. Can't determine emoji type :("
+msgstr ""
+"यह नही होना चाहिए था...\n"
+"इमोजी का प्रकार निर्धारित नही कर सका। :(\n"
+"कृपया `--स्थिर` या `--चलन` का उपयोग करें। "
+
+#: ../Enlarge/emoji.py:119
+msgid "Cannot find emoji with ID {emoji_id}!"
+msgstr "क्रमाङ्क {emoji_id} के लिए कोई इमोजी नही मिला!"
+
+#: ../Enlarge/emoji.py:126
+msgid "An error occurred!"
+msgstr "एक त्रुटि हुई!"

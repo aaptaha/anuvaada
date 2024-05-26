@@ -1,0 +1,32 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-07-31 16:06+0530\n"
+"PO-Revision-Date: 2021-07-31 17:34+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: vote.py:21
+msgid "Vote for me!"
+msgstr "मुझे अपना मत दीजिए !"
+
+#: vote.py:22
+msgid "Vote on following links. Thanks!"
+msgstr "आप निम्नलिखित लिङ्कों पर अपना मत दे सकते हैं। धन्यवाद!"
+
+#: vote.py:27
+msgid "Discord Bot List"
+msgstr "डिस्कॉर्ड बॉट सूची"

@@ -1,0 +1,53 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-11-09 18:56+0530\n"
+"PO-Revision-Date: 2021-11-09 19:01+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+
+#: get_from_url.py:41
+msgid "Cannot find emoji for the given ID!"
+msgstr "दिए गए क्रमाङ्क के लिए कोई इमोजी नही मिला।"
+
+#: get_from_url.py:43
+msgid "Check your URL!"
+msgstr "अपना सार्वकेत का एक बार परिक्षण करें!"
+
+#: get_from_url.py:55
+msgid "URL has unsupported image type."
+msgstr "सार्वकेत पर अमान्य छवि / सञ्चिका है।"
+
+#: get_from_url.py:79
+msgid ""
+"File size > 256 kiB!\n"
+"Emoji assets must be less."
+msgstr ""
+"दी गई सञ्चिका २५६ kiB से बड़ी है!\n"
+"इमोजी की सञ्चिकाएँ २५६ kiB से बड़ी नहीं हो सकती!"
+
+#: get_from_url.py:86
+msgid ""
+"Invalid URL!\n"
+"Don't make me tread shady paths!"
+msgstr ""
+"अमान्य सार्वकेत!\n"
+"मुझे ऐरी-गैरी जगहों पर मत भेजो!"
+
+#: get_from_url.py:91
+msgid "An error occurred!"
+msgstr "एक त्रुटि हुई!"

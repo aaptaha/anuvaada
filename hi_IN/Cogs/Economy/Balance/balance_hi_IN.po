@@ -1,0 +1,54 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-05-05 00:19+0530\n"
+"PO-Revision-Date: 2022-05-05 00:22+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: balance.py:42
+msgid "No member found for the given name."
+msgstr "दिए गए नाम का कोई सदस्य नही मिला।"
+
+#: balance.py:43
+msgid "Note that names are case-sensitive."
+msgstr "ध्यान दें कि नाम पक्षानुगुण हैं।"
+
+#: balance.py:49
+msgid "{fool}, bots don't get to have money!"
+msgstr "{fool}, बॉट पैसा नही रख सकतें!"
+
+#. TRANSLATORS: Example usage of this is -> You have ₹100.
+#: balance.py:72
+msgid "You have ₹{money}."
+msgstr "आपके पास ₹{money} है।"
+
+#: balance.py:74
+msgid "{member} has ₹{money}."
+msgstr "{member} के पास ₹{money} है।"
+
+#: balance.py:78
+msgid "||You're broke... Did you get your daily?||"
+msgstr "||आप तो दरिद्रावस्था में हैं... क्या आपने आज का पैसा लिया?||"
+
+#: balance.py:80
+msgid "||Of course bruh, for use only in bot.||"
+msgstr "||जी हाँ, केवल बॉट में उपयोग के लिए।||"
+
+#: balance.py:82
+msgid "{guild_name} Payments Bank\\™"
+msgstr "{guild_name} व्यय बैङ्क\\™"

@@ -1,0 +1,100 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-11-09 18:56+0530\n"
+"PO-Revision-Date: 2021-11-09 19:00+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+
+#: add_emoji.py:94
+msgid "Assuming a static emoji."
+msgstr "स्थिर इमोजी मान लेते हैं।"
+
+#: add_emoji.py:99
+msgid "I cannot add more emojis since server's emoji slots are full."
+msgstr "और इमोजी नहीं डाले जा सकते, क्योंकि सङ्घ में अधिकतम इमोजी डल चुके हैं।"
+
+#: add_emoji.py:115
+msgid "This is a default emoji. Why even bother?"
+msgstr "यह तो सामान्य इमोजी है। सोचना ही क्यों?"
+
+#: add_emoji.py:136
+msgid "Using the first attachment."
+msgstr "पहली सञ्चिका का उपयोग किया जाएगा।"
+
+#: add_emoji.py:144
+msgid ""
+"File size > 256 kiB!\n"
+"Emoji assets can't be larger!"
+msgstr ""
+"दी गई सञ्चिका २५६ kiB से बड़ी है!\n"
+"इमोजी की सञ्चिकाएँ २५६ kiB से बड़ी नहीं हो सकती!"
+
+#: add_emoji.py:149 add_emoji.py:185 add_emoji.py:192
+msgid "Invalid image file!"
+msgstr "अमान्य छवि / सञ्चिका!"
+
+#: add_emoji.py:150 add_emoji.py:186
+msgid "Static emoji filetype must be JPEG/PNG!"
+msgstr "स्थिर इमोजी का सञ्चिकाप्रकार केवल JPEG/JPG या PNG ही होना चाहिए!"
+
+#: add_emoji.py:151 add_emoji.py:193
+msgid "Animated emoji filetype must be GIF!"
+msgstr "चलने वाली इमोजी का सञ्चिकाप्रकार केवल GIF ही होना चाहिए।"
+
+#: add_emoji.py:212
+msgid "Invalid image file! If truncated, make sure size < 256kiB."
+msgstr ""
+"अमान्य छवि / सञ्चिका! यदि सञ्चिका कट गई हो तो कोई ऐसी सञ्चिका के साथ पुनः प्रयास करें जो २५६ "
+"kiB से छोटी हो।"
+
+#: add_emoji.py:213
+msgid "Error:"
+msgstr "त्रुटि :"
+
+#: add_emoji.py:243
+msgid "Timed out! I'm probably ratelimited here."
+msgstr "बहुत अधिक समय लग रहा। सम्भवतः मुझे यहाँ दर-सीमित कर दिया गया है।"
+
+#: add_emoji.py:244
+msgid "Maybe 50/h. Blame Discord."
+msgstr ""
+"दर-सीमा चलनकालिक है, पर कई बार ५० इमोजी प्रति घण्टे की होती है। ऐसी निषेधात्मक दर-सीमाओं के "
+"लिए डिस्कॉर्ड को दोष दें।"
+
+#: add_emoji.py:248
+msgid "An error occurred. Try again. (Forbidden 403)"
+msgstr "एक त्रुटि हुई। कृपया पुनः प्रयास करें। (निषिद्ध ४०३)"
+
+#: add_emoji.py:251
+msgid "An error occurred. Try again. (Code {code})"
+msgstr "एक त्रुटि हुई। कृपया पुनः प्रयास करें। (कूटसङ्केत {code})"
+
+#: add_emoji.py:254
+msgid "Slots are full."
+msgstr "सङ्घ में अधिकतम इमोजी डल चुके हैं।"
+
+#: add_emoji.py:256
+msgid "Check this link for more info on code."
+msgstr "और जानकारी के लिए इस लिङ्क को देखें।"
+
+#: add_emoji.py:261
+msgid "New emoji added!"
+msgstr "नया इमोजी डाला गया!"
+
+#: add_emoji.py:263
+msgid "Added"
+msgstr "डाला गया"

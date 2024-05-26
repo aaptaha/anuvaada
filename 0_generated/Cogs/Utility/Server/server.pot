@@ -1,0 +1,143 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 20:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: server.py:58
+msgid "No custom invite background set for this server!"
+msgstr ""
+
+#: server.py:60
+msgid "Get to lvl 1 first!"
+msgstr ""
+
+#: server.py:69
+msgid "No banner set for this server!"
+msgstr ""
+
+#: server.py:71
+msgid "Get to lvl 2 first!"
+msgstr ""
+
+#: server.py:80
+msgid "No discovery splash set for this server!"
+msgstr ""
+
+#: server.py:82
+msgid "Get this server on server discovery first!"
+msgstr ""
+
+#: server.py:89
+msgid "ID"
+msgstr ""
+
+#: server.py:92
+msgid "Owner"
+msgstr ""
+
+#: server.py:96
+msgid "Founded on"
+msgstr ""
+
+#: server.py:98
+msgid "Level"
+msgstr ""
+
+#: server.py:102
+msgid "Boosts"
+msgstr ""
+
+#: server.py:109
+msgid "{num_total_stickers} [{num_animated_stickers} animated]"
+msgstr ""
+
+#: server.py:114
+msgid "Sticker count"
+msgstr ""
+
+#: server.py:116
+msgid "Member count"
+msgstr ""
+
+#: server.py:119
+msgid "Role count"
+msgstr ""
+
+#: server.py:123
+msgid "{num_total_emojis} [{num_animated_emojis} animated]"
+msgstr ""
+
+#: server.py:128
+msgid "Emoji count"
+msgstr ""
+
+#: server.py:135
+msgid "Highest"
+msgstr ""
+
+#: server.py:137
+msgid "High"
+msgstr ""
+
+#: server.py:139
+msgid "Medium"
+msgstr ""
+
+#: server.py:141
+msgid "Low"
+msgstr ""
+
+#: server.py:143 server.py:154
+msgid "None"
+msgstr ""
+
+#: server.py:147
+msgid "Verification level"
+msgstr ""
+
+#: server.py:150
+msgid "Yes"
+msgstr ""
+
+#: server.py:150
+msgid "No"
+msgstr ""
+
+#: server.py:151
+msgid "2FA enabled"
+msgstr ""
+
+#: server.py:157
+msgid "System messages channel"
+msgstr ""
+
+#: server.py:159
+msgid "Number of categories"
+msgstr ""
+
+#: server.py:163
+msgid "{num_channels} [{num_text} text, {num_vc} voice, and {num_stage} stage]"
+msgstr ""
+
+#: server.py:171
+msgid "Number of channels"
+msgstr ""
+
+#: server.py:176
+msgid "Features"
+msgstr ""
+

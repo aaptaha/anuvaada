@@ -1,0 +1,48 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-24 14:17+0530\n"
+"PO-Revision-Date: 2021-10-29 15:25+0530\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_IN\n"
+
+#: fetch_users.py:53 fetch_users.py:75 fetch_users.py:112
+msgid "I don't have access to guild. Please report!"
+msgstr "Weird, I don't have access to the guild... Please report in the Meta server!"
+
+#: fetch_users.py:59 fetch_users.py:118
+msgid "User {user_id} fetch HTTPException!"
+msgstr "Fetching user {user_id} failed (HTTPException). Please report in the meta server!"
+
+#: fetch_users.py:64
+msgid "{fool}, user {id} is already banned."
+msgstr "{fool}, user {id} is already banned. Don't be so trigger happy."
+
+#: fetch_users.py:81
+msgid "Member {user_id} fetch HTTPException!"
+msgstr "Fetching member {user_id} failed (HTTPException). Please report in the meta server!"
+
+#: fetch_users.py:98 fetch_users.py:106
+msgid "User with ID {user_id} doesn't exist, {fool}."
+msgstr "User with ID {user_id} doesn't exist! Don't type random stuff, {fool}."
+
+#: fetch_users.py:128
+msgid "Cannot find multiple IDs which were provided."
+msgstr "Cannot find multiple IDs which were provided."
+
+#: fetch_users.py:132
+msgid "Errors were encountered. Please report!"
+msgstr "Errors were encountered. Please report in the Meta server!"

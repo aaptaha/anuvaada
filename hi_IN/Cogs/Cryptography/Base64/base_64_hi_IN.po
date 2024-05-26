@@ -1,0 +1,46 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-01 15:24+0530\n"
+"PO-Revision-Date: 2021-08-01 15:32+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#. TRANSLATORS: {fool} is a placeholder for mocking str, dont translate
+#: base_64.py:33
+msgid "Give something to encode/decode, {fool}."
+msgstr "{fool}, कुछ तो सङ्कूटन / निष्कूटन करने के लिए दो।"
+
+#. TRANSLATORS: This is for embed footer: `Decoded by user`
+#: base_64.py:42
+msgid "Decoded"
+msgstr "निष्कूटित"
+
+#: base_64.py:45
+msgid "Encoded"
+msgstr "सङ्कूटित"
+
+#: base_64.py:51
+msgid "Failed!"
+msgstr "विफल रहा!"
+
+#: base_64.py:53
+msgid "Decoding tried"
+msgstr "निष्कूटन का प्रयास"
+
+#: base_64.py:55
+msgid "Encoding tried"
+msgstr "सङ्कूटन का प्रयास"

@@ -1,0 +1,37 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 18:37+0530\n"
+"PO-Revision-Date: 2021-10-25 18:38+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+
+#: validation.py:44
+msgid "Are you trigger-happy?"
+msgstr "इतने आक्रामक क्यों हो?"
+
+#: validation.py:66
+msgid "Pass ownership to someone else, {fool}."
+msgstr "अर्रे {fool}, तुम किसी और को सङ्घ का अधिकारित्व दे दो।"
+
+#: validation.py:136
+msgid "No reason... Why? Bad mod."
+msgstr "अकारणवश... क्यों? बड़े बुरे नियामक हो।"
+
+#: validation.py:140
+msgid "No reason given."
+msgstr "कोई कारण नही दिया गया।"

@@ -1,0 +1,81 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 20:47+0530\n"
+"PO-Revision-Date: 2022-01-21 20:50+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: user.py:55
+msgid "Official Discord rep!"
+msgstr "Official Discord rep!"
+
+#: user.py:57 user.py:81
+msgid "Username"
+msgstr "Username"
+
+#: user.py:59
+msgid "Is a bot?"
+msgstr "Is a bot?"
+
+#: user.py:60
+msgid "Yes."
+msgstr "Yes."
+
+#: user.py:60
+msgid "No!"
+msgstr "No!"
+
+#: user.py:78
+msgid "Added by"
+msgstr "Added by"
+
+#: user.py:86 user.py:88
+msgid "Is a server booster?"
+msgstr "Is a server booster?"
+
+#: user.py:86
+msgid "No :-|"
+msgstr "No :-|"
+
+#: user.py:88
+msgid "Yes!"
+msgstr "Yes!"
+
+#: user.py:89
+msgid "Boosting since"
+msgstr "Boosting since"
+
+#: user.py:94
+msgid "Joined this server on"
+msgstr "Joined this server on"
+
+#: user.py:99
+msgid "Created Discord account on"
+msgstr "Created Discord account on"
+
+#: user.py:107
+msgid "Roles"
+msgstr "Roles"
+
+#: user.py:107
+msgid "Role"
+msgstr "Role"
+
+#: user.py:111
+msgid "ID"
+msgstr "ID"

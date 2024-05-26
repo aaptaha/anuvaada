@@ -1,0 +1,60 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-01 20:31+0530\n"
+"PO-Revision-Date: 2021-08-02 13:13+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: Give/give.py:55
+msgid "`Giving` implies another person, {fool}."
+msgstr "{fool}, `देना` बोलने से यह अनुमान लगता है कि कोई अन्य व्यक्ति है जिसे तुम पैसे दे रहे हो।"
+
+#: Give/give.py:60
+msgid "😂 This is useless. Increase your IQ!"
+msgstr "😂 यह करना व्यर्थ है। अपने मस्तिष्क की देखभाल करें!"
+
+#: Give/give.py:66
+msgid "Bots don't get to have money, {fool}!"
+msgstr "{fool}, बॉट पैसा नही रख सकतें!"
+
+#: Give/give.py:67
+msgid "Why are you on Discord?"
+msgstr "तुम डिस्कॉर्ड पर क्यों हो?"
+
+#: Give/give.py:72
+msgid "`Giving` implies something, {fool}."
+msgstr "{fool}, `देना` बोलने से यह अनुमान लगता है कि तुम कुछ दे रहे हो।"
+
+#: Give/give.py:73
+msgid "How much money are you giving?"
+msgstr "तुम कितना पैसा दे रहे हो?"
+
+#: Give/give.py:95
+msgid "You are broke, {fool}."
+msgstr "{fool} तुम तो सड़क पर आ जाओगे।"
+
+#: Give/give.py:96
+msgid "You only have ₹{money}."
+msgstr "तुम्हारे पास केवल ₹{money} हैं।"
+
+#: Give/give.py:122
+msgid "Transaction successful!"
+msgstr "देन सुगम रहा!"
+
+#: Give/give.py:123
+msgid "{author} gave ₹{money} to {member}!"
+msgstr "{author} ने {member} को ₹{money} दिए!"

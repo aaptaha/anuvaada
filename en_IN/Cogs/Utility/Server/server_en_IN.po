@@ -1,0 +1,146 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 20:40+0530\n"
+"PO-Revision-Date: 2022-01-21 20:41+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: server.py:58
+msgid "No custom invite background set for this server!"
+msgstr "There is no custom invite splash / background set for this server!"
+
+#: server.py:60
+msgid "Get to lvl 1 first!"
+msgstr "Find some boosters and get this server to level 1 first!"
+
+#: server.py:69
+msgid "No banner set for this server!"
+msgstr "There is no banner set for this server."
+
+#: server.py:71
+msgid "Get to lvl 2 first!"
+msgstr "Find some boosters and get this server to level 2 first!"
+
+#: server.py:80
+msgid "No discovery splash set for this server!"
+msgstr "There is no discovery splash for this server."
+
+#: server.py:82
+msgid "Get this server on server discovery first!"
+msgstr "Get this server listed on the Server Discovery first!"
+
+#: server.py:89
+msgid "ID"
+msgstr "ID"
+
+#: server.py:92
+msgid "Owner"
+msgstr "Owner"
+
+#: server.py:96
+msgid "Founded on"
+msgstr "Founded on"
+
+#: server.py:98
+msgid "Level"
+msgstr "Level"
+
+#: server.py:102
+msgid "Boosts"
+msgstr "Boosts"
+
+#: server.py:109
+msgid "{num_total_stickers} [{num_animated_stickers} animated]"
+msgstr "{num_total_stickers} [{num_animated_stickers} animated]"
+
+#: server.py:114
+msgid "Sticker count"
+msgstr "Sticker count"
+
+#: server.py:116
+msgid "Member count"
+msgstr "Member count"
+
+#: server.py:119
+msgid "Role count"
+msgstr "Role count"
+
+#: server.py:123
+msgid "{num_total_emojis} [{num_animated_emojis} animated]"
+msgstr "{num_total_emojis} [{num_animated_emojis} animated]"
+
+#: server.py:128
+msgid "Emoji count"
+msgstr "Emoji count"
+
+#: server.py:135
+msgid "Highest"
+msgstr "Highest"
+
+#: server.py:137
+msgid "High"
+msgstr "High"
+
+#: server.py:139
+msgid "Medium"
+msgstr "Medium"
+
+#: server.py:141
+msgid "Low"
+msgstr "Low"
+
+#: server.py:143 server.py:154
+msgid "None"
+msgstr "None"
+
+#: server.py:147
+msgid "Verification level"
+msgstr "Verification level"
+
+#: server.py:150
+msgid "Yes"
+msgstr "Yes"
+
+#: server.py:150
+msgid "No"
+msgstr "No"
+
+#: server.py:151
+msgid "2FA enabled"
+msgstr "2FA enabled"
+
+#: server.py:157
+msgid "System messages channel"
+msgstr "System messages channel"
+
+#: server.py:159
+msgid "Number of categories"
+msgstr "Number of categories"
+
+#: server.py:163
+msgid "{num_channels} [{num_text} text, {num_vc} voice, and {num_stage} stage]"
+msgstr ""
+"{num_channels} [{num_text} text, {num_vc} voice, and {num_stage} stage]"
+
+#: server.py:171
+msgid "Number of channels"
+msgstr "Number of channels"
+
+#: server.py:176
+msgid "Features"
+msgstr "Features"

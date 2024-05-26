@@ -1,0 +1,76 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-01 20:31+0530\n"
+"PO-Revision-Date: 2021-08-01 22:07+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: Daily/daily.py:44
+msgid "₹20 have been credited to your account!"
+msgstr "आपके खाते में ₹२० डाल दिए गए हैं!"
+
+#: Daily/daily.py:48
+msgid "Enjoy your Maggi! 🍜"
+msgstr "अपनी मैगी का आनंद लें! 🍜"
+
+#: Daily/daily.py:49
+msgid "Go and eat Yippee noodles now! 🍜"
+msgstr "यिप्पी नूडल्स खा लोे अब। 🍜"
+
+#: Daily/daily.py:50
+msgid "A gujia would be nice! 🥟"
+msgstr "एक गुजिया हो जाए तो मजा ही आ जाए! 🥟"
+
+#: Daily/daily.py:51
+msgid "Kurkure vs Lays, who wins? Pepsico Inc. 🏢"
+msgstr "हल्दीराम बनाम बीकानेरवाला, कौन होगा विजयी? 🏢"
+
+#: Daily/daily.py:52
+msgid "~~Still can't buy a bottle of Pepsi with that money~~ 🥤"
+msgstr "~~अभी भी छाँछ की बोतल लेने की सामर्थ्य नहीं है~~ 🥤"
+
+#: Daily/daily.py:53
+msgid "~~Gamble it~~ 🎲"
+msgstr "~~सट्टा लगा दे~~ 🎲"
+
+#: Daily/daily.py:54
+msgid "Collect more money to become rich! 🤑"
+msgstr "धनवान बनने के लिए और पैसा एकत्रित करें! 🤑"
+
+#: Daily/daily.py:55
+msgid "Hope you are happy! 😄"
+msgstr "आप प्रसन्न हो बस यही आशा है! 😄"
+
+#: Daily/daily.py:56
+msgid "I guess you can buy a chocolate or two. 🍫"
+msgstr "मुझे लगता है कि आप एक या दो चॉकलेट तो ले ही सकते हो। 🍫"
+
+#: Daily/daily.py:57
+msgid "I like Pulse. 🍬"
+msgstr "मुझे तो पल्स प्रिय है। 🍬"
+
+#: Daily/daily.py:58
+msgid "Enjoy some hygenic street food! 🍲"
+msgstr "ठेले पर थोड़े स्वच्छ व्यञ्जनों का आनन्द उठाएँ! 🍲"
+
+#: Daily/daily.py:59
+msgid "Drink some milk, because that's what heroes do! 🥛"
+msgstr "अमूल दूध पीता है इण्डिया! 🥛"
+
+#: Daily/daily.py:62
+msgid "||Bruh no, you can't withdraw 'em using GPay.||"
+msgstr "||नही भाई, इन्हें पेटीऍम से नहीं निकलवा सकते।||"

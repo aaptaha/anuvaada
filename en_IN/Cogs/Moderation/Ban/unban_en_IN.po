@@ -1,0 +1,111 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2021-10-25 16:54+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: unban.py:31
+msgid ""
+"User ID(s)???\n"
+"Ghosts cannot be unbanned."
+msgstr ""
+"Where are the user ID(s)?\n"
+"Don't tell me you're unbanning some ghosts!"
+
+#: unban.py:37
+msgid "{fool} mod, give `ban members` perm."
+msgstr "{fool} mod, gimme `ban members` permission first."
+
+#: unban.py:54
+msgid "User with ID {user_id} is not banned / exist."
+msgstr "User with ID {user_id} is either not banned, or doesn't even exist."
+
+#: unban.py:68
+msgid "Cannot find anyone who's banned out of the given IDs :("
+msgstr "Cannot find anyone who's banned out of the given IDs :("
+
+#: unban.py:78
+msgid "No reason, why? Bad mod. Apologise to the users."
+msgstr "No reason, why? Bad mod. Apologise to the users."
+
+#: unban.py:79
+msgid "{author} renders an unconditional apology on behalf of {guild}."
+msgstr "{author} renders an unconditional apology on behalf of {guild}."
+
+#: unban.py:95
+msgid "No reason given."
+msgstr "No reason given."
+
+#: unban.py:101
+msgid "{fool}, why take away ban perm from me?"
+msgstr ""
+"{fool}, why take away the requisite permission from me when you have told me "
+"to do a job?"
+
+#: unban.py:106
+msgid "Unbanning failed. Please report in the Meta server!"
+msgstr "Unbanning failed. Please report in the Meta server!"
+
+#: unban.py:130
+msgid "Unbanned successfully!"
+msgstr "Unbanned successfully!"
+
+#: unban.py:131
+msgid "Unbanned"
+msgstr "Unbanned"
+
+#: unban.py:138
+msgid "Unbanned users:"
+msgstr "Unbanned users:"
+
+#: unban.py:139
+msgid "Unbanned user IDs:"
+msgstr "Unbanned user IDs:"
+
+#: unban.py:146
+msgid "Too many people unbanned!"
+msgstr "Too many people unbanned!"
+
+#: unban.py:148
+msgid "Users"
+msgstr "Users"
+
+#: unban.py:148
+msgid "User"
+msgstr "User"
+
+#: unban.py:151
+msgid "IDs"
+msgstr "IDs"
+
+#: unban.py:151
+msgid "ID"
+msgstr "ID"
+
+#: unban.py:156
+msgid "Reasons for ban"
+msgstr "Reasons for ban"
+
+#: unban.py:156
+msgid "Reason for ban"
+msgstr "Reason for ban"
+
+#: unban.py:160
+msgid "Reason for unban"
+msgstr "Reason for unban"

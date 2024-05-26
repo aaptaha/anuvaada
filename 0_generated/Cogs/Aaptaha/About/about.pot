@@ -1,0 +1,91 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-09-21 03:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: about.py:25
+msgid "Vasanta"
+msgstr ""
+
+#: about.py:26
+msgid "Greeshma"
+msgstr ""
+
+#: about.py:27
+msgid "Varshaa"
+msgstr ""
+
+#: about.py:28
+msgid "Sharad"
+msgstr ""
+
+#: about.py:29
+msgid "Hemanta"
+msgstr ""
+
+#: about.py:30
+msgid "Shishira"
+msgstr ""
+
+#: about.py:32
+msgid "**About me**"
+msgstr ""
+
+#: about.py:34
+msgid "Namaste! Aaptaha caters with Indian tinge. Use `help`."
+msgstr ""
+
+#: about.py:43
+msgid "**Release**"
+msgstr ""
+
+#: about.py:46
+msgid "**Servers serving**"
+msgstr ""
+
+#: about.py:49
+msgid "**Unique users**"
+msgstr ""
+
+#: about.py:51
+msgid "Join here"
+msgstr ""
+
+#: about.py:52
+msgid "**Aaptaha (Meta)**"
+msgstr ""
+
+#: about.py:54
+msgid "Koo"
+msgstr ""
+
+#: about.py:55
+msgid "Twitter"
+msgstr ""
+
+#: about.py:56
+msgid "**Social**"
+msgstr ""
+
+#: about.py:58
+msgid "Github"
+msgstr ""
+
+#: about.py:59
+msgid "**ToS & Privacy**"
+msgstr ""
+

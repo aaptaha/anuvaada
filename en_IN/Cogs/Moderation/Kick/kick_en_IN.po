@@ -1,0 +1,86 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2021-10-25 17:07+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: kick.py:37
+msgid "{fool} mod, give `kick members` perm."
+msgstr "{fool} mod, gimme `kick members` permission first."
+
+#: kick.py:55
+msgid ""
+"You have been kicked from {guild} for:\n"
+"{reason}"
+msgstr ""
+"You have been kicked from {guild} for:\n"
+"{reason}"
+
+#: kick.py:72
+msgid "{fool}, why take away kick perm from me?"
+msgstr ""
+"{fool}, why take away kick permission from me when you have instructed me to "
+"kick people?"
+
+#: kick.py:77
+msgid "Kicking failed. Please report in the Meta server!"
+msgstr "Kicking failed. Please report in the Meta server!"
+
+#: kick.py:92
+msgid "Kicked successfully!"
+msgstr "Kicked successfully!"
+
+#: kick.py:93
+msgid "Kicked"
+msgstr "Kicked"
+
+#: kick.py:101
+msgid "Kicked users:"
+msgstr "Kicked users:"
+
+#: kick.py:102
+msgid "Kicked user IDs:"
+msgstr "Kicked user IDs:"
+
+#: kick.py:109
+msgid "Too many people kicked!"
+msgstr "Too many people kicked!"
+
+#: kick.py:111
+msgid "Users"
+msgstr "Users"
+
+#: kick.py:111
+msgid "User"
+msgstr "User"
+
+#: kick.py:114
+msgid "IDs"
+msgstr "IDs"
+
+#: kick.py:114
+msgid "ID"
+msgstr "ID"
+
+#: kick.py:117
+msgid "Reason"
+msgstr "Reason"
+
+#~ msgid "kick"
+#~ msgstr "kick"

@@ -1,0 +1,56 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-01 20:32+0530\n"
+"PO-Revision-Date: 2021-08-02 13:24+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: Take/take.py:56
+msgid "`Taking` implies another person, {fool}."
+msgstr "{fool}, `लेना` बोलने से यह अनुमान लगता है कि कोई अन्य व्यक्ति है जिससे तुम पैसे ले रहे हो।"
+
+#: Take/take.py:61
+msgid "Bots don't get to have money, {fool}!"
+msgstr "{fool}, बॉट पैसा नही रख सकतें!"
+
+#: Take/take.py:62
+msgid "Why are you on Discord?"
+msgstr "तुम डिस्कॉर्ड पर क्यों हो?"
+
+#: Take/take.py:67
+msgid "`Taking` implies something, {fool}."
+msgstr "{fool}, `लेना` बोलने से यह अनुमान लगता है कि तुम कुछ ले रहे हो।"
+
+#: Take/take.py:68
+msgid "How much money are you taking from the poor guy?"
+msgstr "बेचारे से कितने पैसे हड़पने हैं तुम्हें?"
+
+#: Take/take.py:88
+msgid "That guy is broke, {fool}. Doesn't have that much ₹₹₹."
+msgstr "{fool}, वो वैसे ही सड़क पर है। इतने ₹₹₹ नही हैं उसके पास।"
+
+#: Take/take.py:110
+msgid "{member} successful vanished his money!"
+msgstr "{member} ने अपने पैसे लुप्त कर दिए!"
+
+#: Take/take.py:116
+msgid "₹{money} from {member} has been confiscated!"
+msgstr "{member} से ₹{money} जब्त कर लिए गए!"
+
+#: Take/take.py:120
+msgid "Confiscated"
+msgstr "जब्त"

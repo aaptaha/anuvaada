@@ -1,0 +1,93 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:52+0530\n"
+"PO-Revision-Date: 2021-10-25 18:20+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+
+#: validation_strings.py:24
+msgid "Who are you muting, {fool}?"
+msgstr "{fool} तुम किस को चुप कर रहे हो?"
+
+#: validation_strings.py:27
+msgid "Not muting myself. Why mute me :("
+msgstr "स्वयं को चुप नही कर रहा। मुझे क्यों चुप कर रहे :("
+
+#: validation_strings.py:30
+msgid "{owner}, {member} wanna get muted. I've got no perms."
+msgstr ""
+"नमस्ते {owner}, {member} अपना मुँह सिलाने को इच्छुक है।\n"
+"मैं आपके लिए यह काम कर देता जैसे कि एक अच्छे मित्र के भाँति हमेशा करता हुँ, परन्तु अभी मेरे पास यह करने की "
+"अनुमति नही है।"
+
+#: validation_strings.py:35
+msgid "Why?...... Okay, mute yourself."
+msgstr "क्यों?...... ठीक है, तुम स्वयं ही चुप हो जाओ।"
+
+#: validation_strings.py:38
+msgid "I cannot mute {member}, promote me."
+msgstr "मैं {member} को चुप नही कर सकता, कृपया मेरी पदोन्नति करें।"
+
+#: validation_strings.py:41
+msgid "You cannot mute {member}, get a promotion."
+msgstr "आप {member} को चुप नही कर सकते, पदोन्नति का आवेदन करें।"
+
+#: validation_strings.py:44
+msgid "Cannot mute anyone mentioned! :("
+msgstr "आपके बताए गए लोगों में से किसी को भी चुप नही कर सका!‌:("
+
+#: validation_strings.py:47
+msgid "{user} gave no reason for muting."
+msgstr "{user} ने चुप करवाने के लिए कोई कारण नही दिया।"
+
+#: validation_strings.py:68
+msgid "Who are you unmuting, {fool}?"
+msgstr "{fool} तुम किस को बोलने की अनुमति पुनः प्रदान कर रहे हो?"
+
+#: validation_strings.py:71
+msgid "I am not gonna change my permissions myself."
+msgstr "मैं स्वयं की अनुमति स्वयं नही बदलने वाला।"
+
+#: validation_strings.py:74
+msgid "{owner}, {member} wanna get unmuted. I've got no perms."
+msgstr ""
+"नमस्ते {owner}, {member} अपनी बोलने की अनुमति वापस लेने को इच्छुक है।\n"
+"मैं आपके लिए यह काम कर देता जैसे कि एक अच्छे मित्र के भाँति हमेशा करता हुँ, परन्तु अभी मेरे पास यह करने की "
+"अनुमति नही है।"
+
+#: validation_strings.py:79
+msgid "Why?...... Okay, unmute yourself."
+msgstr "क्यों?...... ठीक है, स्वयं को ही बोलने की अनुमति दे ।"
+
+#: validation_strings.py:82
+msgid "I cannot unmute {member}, promote me."
+msgstr "मैं {member} को बोलने की अनुमति नही प्रदान कर सकता, कृपया मेरी पदोन्नति करें।"
+
+#: validation_strings.py:85
+msgid "You cannot unmute {member}, get a promotion."
+msgstr "आप {member} को बोलने की अनुमति नही प्रदान कर सकते, पदोन्नति का आवेदन करें।"
+
+#: validation_strings.py:88
+msgid "Cannot unmute anyone mentioned! :("
+msgstr "आपके बताए गए लोगों में से किसी को भी बोलने की अनुमति नही प्रदान कर पाया !‌:("
+
+#: validation_strings.py:91
+msgid "{user} gave no reason for unmuting."
+msgstr "{user} ने बोलने की अनुमति पुनः प्रदान करने का कोई कारण नही दिया।"
+
+#~ msgid "Not unmuting myself. Why unmute me :("
+#~ msgstr "मैं स्वयं की अनुमति स्वयं नही बदलने वाला।"

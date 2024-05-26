@@ -1,0 +1,93 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-11-09 18:56+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: add_emoji.py:94
+msgid "Assuming a static emoji."
+msgstr ""
+
+#: add_emoji.py:99
+msgid "I cannot add more emojis since server's emoji slots are full."
+msgstr ""
+
+#: add_emoji.py:115
+msgid "This is a default emoji. Why even bother?"
+msgstr ""
+
+#: add_emoji.py:136
+msgid "Using the first attachment."
+msgstr ""
+
+#: add_emoji.py:144
+msgid ""
+"File size > 256 kiB!\n"
+"Emoji assets can't be larger!"
+msgstr ""
+
+#: add_emoji.py:149 add_emoji.py:185 add_emoji.py:192
+msgid "Invalid image file!"
+msgstr ""
+
+#: add_emoji.py:150 add_emoji.py:186
+msgid "Static emoji filetype must be JPEG/PNG!"
+msgstr ""
+
+#: add_emoji.py:151 add_emoji.py:193
+msgid "Animated emoji filetype must be GIF!"
+msgstr ""
+
+#: add_emoji.py:212
+msgid "Invalid image file! If truncated, make sure size < 256kiB."
+msgstr ""
+
+#: add_emoji.py:213
+msgid "Error:"
+msgstr ""
+
+#: add_emoji.py:243
+msgid "Timed out! I'm probably ratelimited here."
+msgstr ""
+
+#: add_emoji.py:244
+msgid "Maybe 50/h. Blame Discord."
+msgstr ""
+
+#: add_emoji.py:248
+msgid "An error occurred. Try again. (Forbidden 403)"
+msgstr ""
+
+#: add_emoji.py:251
+msgid "An error occurred. Try again. (Code {code})"
+msgstr ""
+
+#: add_emoji.py:254
+msgid "Slots are full."
+msgstr ""
+
+#: add_emoji.py:256
+msgid "Check this link for more info on code."
+msgstr ""
+
+#: add_emoji.py:261
+msgid "New emoji added!"
+msgstr ""
+
+#: add_emoji.py:263
+msgid "Added"
+msgstr ""
+

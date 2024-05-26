@@ -1,0 +1,61 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-07 16:07+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: Betroll/betroll.py:59
+msgid ""
+"Please bet some money.\n"
+"Ain't getting free money, {fool}."
+msgstr ""
+
+#: Betroll/betroll.py:81
+msgid "You are broke, {fool}."
+msgstr ""
+
+#: Betroll/betroll.py:82
+msgid "You only have ₹{money}."
+msgstr ""
+
+#: Betroll/betroll.py:96
+msgid "Rolling"
+msgstr ""
+
+#: Betroll/betroll.py:97
+msgid "Rolled"
+msgstr ""
+
+#: Betroll/betroll.py:127
+msgid "Congratulations!"
+msgstr ""
+
+#: Betroll/betroll.py:128 Betroll/betroll.py:140
+msgid "You rolled {result}!"
+msgstr ""
+
+#: Betroll/betroll.py:129
+msgid "You bet ₹{amount} and won ₹{won}!"
+msgstr ""
+
+#: Betroll/betroll.py:139
+msgid "Ouch!"
+msgstr ""
+
+#: Betroll/betroll.py:141
+msgid "Told you gambling is bad."
+msgstr ""
+

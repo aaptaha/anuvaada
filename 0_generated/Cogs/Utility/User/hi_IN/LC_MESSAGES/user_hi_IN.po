@@ -1,0 +1,81 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 20:47+0530\n"
+"PO-Revision-Date: 2022-01-21 20:49+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: user.py:55
+msgid "Official Discord rep!"
+msgstr "आधिकारिक डिस्कॉर्ड प्रतिनिधि!"
+
+#: user.py:57 user.py:81
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: user.py:59
+msgid "Is a bot?"
+msgstr "क्या एक बॉट हैं?"
+
+#: user.py:60
+msgid "Yes."
+msgstr "हाँ।"
+
+#: user.py:60
+msgid "No!"
+msgstr "नही!"
+
+#: user.py:78
+msgid "Added by"
+msgstr "इनके द्वारा डाला गया"
+
+#: user.py:86 user.py:88
+msgid "Is a server booster?"
+msgstr "क्या सङ्घ में बूस्टर हैं?"
+
+#: user.py:86
+msgid "No :-|"
+msgstr "नही :-|"
+
+#: user.py:88
+msgid "Yes!"
+msgstr "हाँ!"
+
+#: user.py:89
+msgid "Boosting since"
+msgstr "कबसे बूस्ट कर रहें"
+
+#: user.py:94
+msgid "Joined this server on"
+msgstr "सङ्घ में जुड़ने का समय"
+
+#: user.py:99
+msgid "Created Discord account on"
+msgstr "डिस्कॉर्ड खाता बनाने का समय"
+
+#: user.py:107
+msgid "Roles"
+msgstr "उपाधियाँ"
+
+#: user.py:107
+msgid "Role"
+msgstr "उपाधि"
+
+#: user.py:111
+msgid "ID"
+msgstr "उपाभिधान"

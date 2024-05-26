@@ -1,0 +1,78 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 18:37+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: mute.py:42
+msgid "{fool} mod, give `manage roles` perm."
+msgstr ""
+
+#. TRANSLATORS: This is a command line flag, include -- at start
+#: mute.py:49
+msgid "--force"
+msgstr ""
+
+#: mute.py:81
+msgid "I have perm, but can't add, as mute role is higher. Promote me."
+msgstr ""
+
+#: mute.py:88
+msgid "You have perm, but can't add, as mute role is higher. Ask for promotion."
+msgstr ""
+
+#: mute.py:118
+msgid "{member} is already muted by me!"
+msgstr ""
+
+#: mute.py:121
+msgid "{members} are already muted by me!"
+msgstr ""
+
+#: mute.py:125
+msgid "Perhaps you wanted to unmute?"
+msgstr ""
+
+#: mute.py:129
+msgid ""
+"Use `--force` for {members} if sure, sometimes {fool} mod manually "
+"unmutes instead of using `unmute`."
+msgstr ""
+
+#: mute.py:169
+msgid "Muted the motormouth!"
+msgstr ""
+
+#: mute.py:170
+msgid "{member} needs to shut up and relax!"
+msgstr ""
+
+#: mute.py:173
+msgid "Muted the motormouths!"
+msgstr ""
+
+#: mute.py:174
+msgid "{members} need to shut up and relax!"
+msgstr ""
+
+#: mute.py:179 mute.py:182
+msgid "Reason:"
+msgstr ""
+
+#: mute.py:185
+msgid "Muted"
+msgstr ""
+

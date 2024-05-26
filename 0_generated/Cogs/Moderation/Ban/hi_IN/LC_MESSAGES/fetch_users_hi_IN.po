@@ -1,0 +1,48 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-24 14:17+0530\n"
+"PO-Revision-Date: 2022-09-24 14:37+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: fetch_users.py:53 fetch_users.py:75 fetch_users.py:112
+msgid "I don't have access to guild. Please report!"
+msgstr "विचित्र बात है, मैं सङ्घ को नही देख पा रहा हुँ... कृपया विचारस्थल में सूचित करें!"
+
+#: fetch_users.py:59 fetch_users.py:118
+msgid "User {user_id} fetch HTTPException!"
+msgstr "उपयोक्ता {user_id} का सङ्ग्रहण विफल रहा (HTTPException)। कृपया विचारस्थल में सूचित करें!"
+
+#: fetch_users.py:64
+msgid "{fool}, user {id} is already banned."
+msgstr "{fool}, उपयोक्ता {id} पहले से ही प्रतिबन्धित है। अपने उतावलेपन पर नियन्त्रण रखें।"
+
+#: fetch_users.py:81
+msgid "Member {user_id} fetch HTTPException!"
+msgstr "सदस्य {user_id} का सङ्ग्रहण विफल रहा (HTTPException)। कृपया विचारस्थल में सूचित करें!"
+
+#: fetch_users.py:98 fetch_users.py:106
+msgid "User with ID {user_id} doesn't exist, {fool}."
+msgstr "{user_id} उपाभिधान अस्तित्व में नही है! बेकार में परेशान मत करो, {fool}।"
+
+#: fetch_users.py:128
+msgid "Cannot find multiple IDs which were provided."
+msgstr "दिए गए उपाभिधानों में से कई नही मिल पाए।"
+
+#: fetch_users.py:132
+msgid "Errors were encountered. Please report!"
+msgstr "थोड़ी त्रुटियों का सामना करना पड़ा। कृपया विचारस्थल में सूचित करें!"

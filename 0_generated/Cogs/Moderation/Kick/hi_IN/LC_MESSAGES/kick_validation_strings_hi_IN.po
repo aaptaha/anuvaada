@@ -1,0 +1,54 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2021-11-21 20:49+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: kick_validation_strings.py:24
+msgid "Who are you kicking, {fool}?"
+msgstr "{fool} तुम किस को सङ्घ से निकाल रहे हो?"
+
+#: kick_validation_strings.py:27
+msgid "Not kicking myself. Why kick me :("
+msgstr "स्वयं को नही निकालने वाला। मुझे क्यों निकाल रहे :("
+
+#: kick_validation_strings.py:30
+msgid "{owner}, {member} wanna get kicked. I've got no perms."
+msgstr ""
+"नमस्ते {owner}, {member} लात खा कर निकलने को इच्छुक है।\n"
+"मैं आपके लिए यह काम कर देता जैसे कि एक अच्छे मित्र के भाँति हमेशा करता हुँ, परन्तु अभी मेरे पास यह करने की अनुमति नही है।"
+
+#: kick_validation_strings.py:35
+msgid "Why?...... Okay, kick yourself."
+msgstr "क्यों?...... ठीक है, तुम स्वयं को ही लात मार कर निकालो।"
+
+#: kick_validation_strings.py:38
+msgid "I cannot kick {member}, promote me."
+msgstr "मैं {member} को निकाल नही सकता, कृपया मेरी पदोन्नति करें।"
+
+#: kick_validation_strings.py:41
+msgid "You cannot kick {member}, get a promotion."
+msgstr "आप {member} को निकाल नही सकते, पदोन्नति का आवेदन करें।"
+
+#: kick_validation_strings.py:44
+msgid "Cannot kick anyone mentioned! :("
+msgstr "आपके बताए गए लोगों में से किसी को भी निकाल नही सका!‌:("
+
+#: kick_validation_strings.py:47
+msgid "{user} gave no reason for kicking."
+msgstr "{user} ने निकालने का कोई कारण नही दिया।"

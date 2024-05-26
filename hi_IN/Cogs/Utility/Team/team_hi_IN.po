@@ -1,0 +1,93 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-"
+"translations\n"
+"POT-Creation-Date: 2022-01-20 23:39+0530\n"
+"PO-Revision-Date: 2022-01-21 21:24+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users."
+"noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. TRANSLATORS: `team` here is the noun used for a team/group.
+#: team.py:47
+msgid "Specify at beginning how many players in {team}"
+msgstr "कृपया (सबसे पहले) बताएँ कि एक {team} में कितने खिलाड़ी होने चाहिए।"
+
+#: team.py:53
+msgid "negative number of players."
+msgstr ""
+"तुम कदाचित इतने मूर्ख हो सकते हो कि नकारात्मक मात्रा (खिलाड़ियों की "
+"सङ्ख्या) में सोचते हो, पर मैं नही।"
+
+#: team.py:58
+msgid "{fool}, a `{team}` is made of two or more players."
+msgstr ""
+"{fool}, एक `{team}` दो या उससे अधिक खिलाड़ियों की होती है।\n"
+"सम्भवतः तुम कभी किसी में नही रहे।"
+
+#: team.py:64
+msgid "`{team}` is of members, {fool}. Mention roles/members."
+msgstr ""
+"`{team}` सदस्यों से बनी होती है, {fool}।\n"
+"कृपया उन उपाधियों और सदस्यों का टङ्कण/वर्णन करें जिन्हें {team} में बाँटना है।"
+
+#: team.py:77
+msgid "yes"
+msgstr "हाँ"
+
+#: team.py:78
+msgid "Add more members? Reply with {yes}. Waiting for 5s."
+msgstr ""
+"क्या आप और सदस्य जोड़ना चाहते हैं?\n"
+"यदि चाहते हैं तो `{yes}` भेजें।\n"
+"५ सॅकण्ड रुका हुँ..."
+
+#: team.py:90
+msgid "Alright, sorry for the delay."
+msgstr "अच्छा, देरी के लिए खेद है।"
+
+#: team.py:92
+msgid "Okay, please mention them in 60s."
+msgstr "ठीक है, ६० सॅकण्ड के अन्दर उन्हें टङ्कित करें।"
+
+#: team.py:98
+msgid "Lol slomo, please prepare in advance. Thanks."
+msgstr "अर्रे कछुए, कृपया पहले से सोच कर आओ। धन्यवाद।"
+
+#: team.py:106
+msgid "Expected mentions. Nvm, expected too much from you."
+msgstr ""
+"मुझे लोगों के उल्लेख की आशा थी ...\n"
+"छोड़ो, तुम से कुछ अधिक ही अपेक्षा रख ली।"
+
+#: team.py:122
+msgid "Too low members to do fair division. Learn basic maths."
+msgstr ""
+"निष्पक्ष विभाजन करने के लिए बहुत कम सदस्य हैं।\n"
+"जाओ मौलिक गणित का अध्ययन करो। ख़ान अकॅडमी एक अच्छा स्रोत है।"
+
+#. TRANSLATORS: Consult the invoke cmd with dev for appropriate plural
+#: team.py:128
+msgid ""
+"Cannot divide {num_members} members into {teams}s consisting of "
+"{num_players} members each."
+msgstr ""
+"{num_members} सदस्यों को {num_players} खिलाड़ियों की {teams}यों में "
+"नही बाँटा जा सकता।"
+
+#: team.py:140
+msgid "{team}ed up!"
+msgstr "{team}याँ बना दी गई!"

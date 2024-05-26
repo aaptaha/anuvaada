@@ -1,0 +1,67 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-22 15:58+0530\n"
+"PO-Revision-Date: 2022-01-22 16:02+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: say.py:69
+msgid "What to say? Can't speak nothing!"
+msgstr "आप मुझसे क्या बुलाना चाहते हैं? मैं शुन्यता नहीं `बोल` सकता!"
+
+#: say.py:134
+msgid "Title too big. Max 256 chars only. Forgot to use `--body`?"
+msgstr ""
+"शीर्षक बहुत बड़ा है। शीर्षक में २५६ से अधिक वर्ण नही आ सकते।\n"
+"क्या आप `--उल्लेख` का उपयोग करना भूल गए?"
+
+#: say.py:176
+msgid "Invalid URL (`{url}`) for the image/thumbnail. ({status}, {reason})"
+msgstr "चित्र/लघुचित्र के लिए अमान्य सार्वकेत (`{url}`)। ({status}, {reason})"
+
+#: say.py:190 say.py:230
+msgid "Filetype not supported for images."
+msgstr "दिया गया सञ्चिकाप्रकार चित्र के लिए असमर्थित है।"
+
+#: say.py:197
+msgid "Error while connecting to `{url}` !"
+msgstr "`{url}` से सम्पर्क करते समय त्रुटि!"
+
+#: say.py:207
+msgid "Should be 2 attachments (image and thumbnail)."
+msgstr "दो सञ्चिकाएँ होनी चाहिए – एक चित्र के लिए, और एक लघुचित्र के लिए।"
+
+#: say.py:212
+msgid "Using the first two attachments."
+msgstr "पहली दो सञ्चिकाओं का उपयोग किया जाएगा।"
+
+#: say.py:220 say.py:225
+msgid "Using the first attachment."
+msgstr "पहली सञ्चिका का उपयोग किया जाएगा।"
+
+#: say.py:245
+msgid "Image's file size is too large!"
+msgstr "चित्र की सञ्चिका का आकार बहुत बड़ा है!"
+
+#: say.py:253
+msgid "Thumbnail's file size is too large!"
+msgstr "लघुचित्र की सञ्चिका का आकार बहुत बड़ा है!"
+
+#: say.py:269
+msgid "Said"
+msgstr "बोला गया"

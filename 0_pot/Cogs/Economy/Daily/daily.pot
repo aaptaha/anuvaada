@@ -1,0 +1,75 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-01 20:31+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: Daily/daily.py:44
+msgid "₹20 have been credited to your account!"
+msgstr ""
+
+#: Daily/daily.py:48
+msgid "Enjoy your Maggi! 🍜"
+msgstr ""
+
+#: Daily/daily.py:49
+msgid "Go and eat Yippee noodles now! 🍜"
+msgstr ""
+
+#: Daily/daily.py:50
+msgid "A gujia would be nice! 🥟"
+msgstr ""
+
+#: Daily/daily.py:51
+msgid "Kurkure vs Lays, who wins? Pepsico Inc. 🏢"
+msgstr ""
+
+#: Daily/daily.py:52
+msgid "~~Still can't buy a bottle of Pepsi with that money~~ 🥤"
+msgstr ""
+
+#: Daily/daily.py:53
+msgid "~~Gamble it~~ 🎲"
+msgstr ""
+
+#: Daily/daily.py:54
+msgid "Collect more money to become rich! 🤑"
+msgstr ""
+
+#: Daily/daily.py:55
+msgid "Hope you are happy! 😄"
+msgstr ""
+
+#: Daily/daily.py:56
+msgid "I guess you can buy a chocolate or two. 🍫"
+msgstr ""
+
+#: Daily/daily.py:57
+msgid "I like Pulse. 🍬"
+msgstr ""
+
+#: Daily/daily.py:58
+msgid "Enjoy some hygenic street food! 🍲"
+msgstr ""
+
+#: Daily/daily.py:59
+msgid "Drink some milk, because that's what heroes do! 🥛"
+msgstr ""
+
+#: Daily/daily.py:62
+msgid "||Bruh no, you can't withdraw 'em using GPay.||"
+msgstr ""
+

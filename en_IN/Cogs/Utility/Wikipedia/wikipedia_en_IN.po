@@ -1,0 +1,48 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 15:28+0530\n"
+"PO-Revision-Date: 2022-01-21 15:38+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: wikipedia.py:67
+msgid "Bad queries prohibited in safe channels!"
+msgstr "Bad queries are prohibited in safe channels!"
+
+#: wikipedia.py:68
+msgid "Report in Meta server if false positive."
+msgstr "False positive? Report in the Meta server (use `@@about`)."
+
+#: wikipedia.py:110
+msgid "Problem fetching data from Wikipedia!"
+msgstr "Problem fetching data from Wikipedia!"
+
+#: wikipedia.py:139
+msgid "What to search, {fool}? Specify it, can't search nothing!"
+msgstr ""
+"What do you want to search, {fool}?\n"
+"You need to specify it, I can't search nothing?!"
+
+#: wikipedia.py:150
+msgid "Searching Wikipedia..."
+msgstr "Searching Wikipedia..."
+
+#: wikipedia.py:179
+msgid "Unable to find `{search_query}` on Wikipedia. Be specific."
+msgstr ""
+"I am unable to find `{search_query}` on Wikipedia.\n"
+"Try to be more specific, and don't type gibberish."

@@ -1,0 +1,54 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2021-10-25 17:47+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: ban_validation_strings.py:24
+msgid "Who are you banning, {fool}?"
+msgstr "{fool} तुम किस को प्रतिबन्धित कर रहे हो?"
+
+#: ban_validation_strings.py:27
+msgid "Not banning myself. Why ban me :("
+msgstr "स्वयं को प्रतिबन्धित नही कर रहा। मुझे क्यों प्रतिबन्धित कर रहे :("
+
+#: ban_validation_strings.py:30
+msgid "{owner}, {member} wanna get banned. I've got no perms."
+msgstr ""
+"नमस्ते {owner}, {member} प्रतिबन्धित होने को इच्छुक है।\n"
+"मैं आपके लिए यह काम कर देता जैसे कि एक अच्छे मित्र के भाँति हमेशा करता हुँ, परन्तु अभी मेरे पास यह करने की अनुमति नही है।"
+
+#: ban_validation_strings.py:35
+msgid "Why?...... Okay, ban yourself."
+msgstr "क्यों?...... ठीक है, तुम स्वयं को प्रतिबन्धित कर दो।"
+
+#: ban_validation_strings.py:38
+msgid "I cannot ban {member}, promote me."
+msgstr "मैं {member} को प्रतिबन्धित नही कर सकता, कृपया मेरी पदोन्नति करें।"
+
+#: ban_validation_strings.py:41
+msgid "You cannot ban {member}, get a promotion."
+msgstr "आप {member} को प्रतिबन्धित नही कर सकते, पदोन्नति का आवेदन करें।"
+
+#: ban_validation_strings.py:44
+msgid "Cannot ban anyone mentioned! :("
+msgstr "आपके बताए गए लोगों में से किसी को भी प्रतिबन्धित नही कर सका!‌:("
+
+#: ban_validation_strings.py:47
+msgid "{user} gave no reason for banning."
+msgstr "{user} ने प्रतिबन्ध के लिए कोई कारण नही दिया।"

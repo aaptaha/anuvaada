@@ -1,0 +1,108 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2022-09-24 15:00+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: unban.py:31
+msgid ""
+"User ID(s)???\n"
+"Ghosts cannot be unbanned."
+msgstr ""
+"उपाभिधान (उपयोक्ताओं के क्रमाङ्क) कहाँ है?\n"
+"अब यह मत कहना कि तुम किसी भूत पर से प्रतिबन्ध हटा रहे हो!"
+
+#: unban.py:37
+msgid "{fool} mod, give `ban members` perm."
+msgstr "{fool} नियामक, पहले मुझे `सदस्य प्रतिबन्धित करने` की अनुमति दो।"
+
+#: unban.py:54
+msgid "User with ID {user_id} is not banned / exist."
+msgstr "{user_id} उपाभिधान वाला उपयोक्ता या तो प्रतिबन्धित नही है, या तो अस्तित्व में ही नही है।"
+
+#: unban.py:68
+msgid "Cannot find anyone who's banned out of the given IDs :("
+msgstr "दिए गए उपाभिधानों में से ऐसा कोई भी नही मिला जो प्रतिबन्धित हो :("
+
+#: unban.py:78
+msgid "No reason, why? Bad mod. Apologise to the users."
+msgstr "क्यों अकारणवश? बड़े बुरे नियामक हो। उपयोक्ताओं से क्षमा मांगो।"
+
+#: unban.py:79
+msgid "{author} renders an unconditional apology on behalf of {guild}."
+msgstr "{guild} की ओर से {author} अनौपाधिक क्षमा माँगते हैं।"
+
+#: unban.py:95
+msgid "No reason given."
+msgstr "कोई कारण नही दिया गया।"
+
+#: unban.py:101
+msgid "{fool}, why take away ban perm from me?"
+msgstr "{fool}, जब मुझे प्रतिबन्ध हटाने के लिए कहा है तो क्यों मुझसे वही कार्य करने की अनुमति छीन रहे हो?"
+
+#: unban.py:106
+msgid "Unbanning failed. Please report in the Meta server!"
+msgstr "प्रतिबन्ध हटाना विफल रहा। कृपया विचारस्थल में सूचित करें!"
+
+#: unban.py:130
+msgid "Unbanned successfully!"
+msgstr "सफलतापूर्वक प्रतिबन्ध हटाया गया!"
+
+#: unban.py:131
+msgid "Unbanned"
+msgstr "अप्रतिबन्धित"
+
+#: unban.py:138
+msgid "Unbanned users:"
+msgstr "अप्रतिबन्धित उपयोक्ता :"
+
+#: unban.py:139
+msgid "Unbanned user IDs:"
+msgstr "अप्रतिबन्धित उपाभिधान :"
+
+#: unban.py:146
+msgid "Too many people unbanned!"
+msgstr "बहुत सारे उपयोक्ताओं से प्रतिबन्ध हटाया गया!"
+
+#: unban.py:148
+msgid "Users"
+msgstr "उपयोक्ता"
+
+#: unban.py:148
+msgid "User"
+msgstr "उपयोक्ता"
+
+#: unban.py:151
+msgid "IDs"
+msgstr "उपाभिधान"
+
+#: unban.py:151
+msgid "ID"
+msgstr "उपाभिधान"
+
+#: unban.py:156
+msgid "Reasons for ban"
+msgstr "प्रतिबन्ध लगाने के कारण"
+
+#: unban.py:156
+msgid "Reason for ban"
+msgstr "प्रतिबन्ध लगाने का कारण"
+
+#: unban.py:160
+msgid "Reason for unban"
+msgstr "प्रतिबन्ध हटाने का कारण"

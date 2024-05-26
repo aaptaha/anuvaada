@@ -1,0 +1,48 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 15:28+0530\n"
+"PO-Revision-Date: 2022-09-24 14:45+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: wikipedia.py:67
+msgid "Bad queries prohibited in safe channels!"
+msgstr "गन्दी पृच्छिकाएँ स्वच्छ चैनलों में वर्जित हैं!"
+
+#: wikipedia.py:68
+msgid "Report in Meta server if false positive."
+msgstr "असत्य / त्रुटि है? कृपया विचारस्थल में सूचना दें (`@@परिचय` का उपयोग करें)।"
+
+#: wikipedia.py:110
+msgid "Problem fetching data from Wikipedia!"
+msgstr "विकिपीडिया से निर्यात करने में त्रुटि हुई!"
+
+#: wikipedia.py:139
+msgid "What to search, {fool}? Specify it, can't search nothing!"
+msgstr ""
+"क्या खोजना है, {fool}?\n"
+"ढङ्ग से निर्दिष्ट करो, मैं कुछ नही नहीं `खोज` सकता?!"
+
+#: wikipedia.py:150
+msgid "Searching Wikipedia..."
+msgstr "विकिपीडिया पर खोज की जा रही है..."
+
+#: wikipedia.py:179
+msgid "Unable to find `{search_query}` on Wikipedia. Be specific."
+msgstr ""
+"मुझे विकिपीडिया पर `{search_query}` खोजने में असमर्थ हूँ।\n"
+"कृपया अधिक विशिष्ट होने का प्रयास करें, और बकवास न लिखें।"

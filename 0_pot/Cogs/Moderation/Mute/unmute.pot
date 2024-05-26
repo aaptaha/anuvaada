@@ -1,0 +1,89 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:52+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: unmute.py:42
+msgid "{fool} mod, give `manage roles` perm."
+msgstr ""
+
+#: unmute.py:70
+msgid "I have perm, but can't remove, as mute role is higher. Promote me."
+msgstr ""
+
+#: unmute.py:77
+msgid ""
+"You have perm, but can't remove, as mute role is higher. Ask for "
+"promotion."
+msgstr ""
+
+#: unmute.py:105
+msgid "{member} is not muted by me!"
+msgstr ""
+
+#: unmute.py:108
+msgid "{members} are not muted by me!"
+msgstr ""
+
+#: unmute.py:112
+msgid "Perhaps you wanted to mute?"
+msgstr ""
+
+#: unmute.py:116
+msgid "{fool} mod changed roles for {members}. I'll overwrite."
+msgstr ""
+
+#: unmute.py:152
+msgid ""
+"I have perm, but can't unmute, as {member} had higher role earlier. "
+"Promote me."
+msgstr ""
+
+#: unmute.py:161
+msgid ""
+"You have perm, but can't unmute, as {member} had higher role earlier. Ask"
+" for promotion."
+msgstr ""
+
+#: unmute.py:181
+msgid "All roles for {member} might be deleted, not unmuting."
+msgstr ""
+
+#: unmute.py:187
+msgid "Some roles for {member} might be deleted, skipping those."
+msgstr ""
+
+#: unmute.py:206
+msgid "Cannot unmute anyone!"
+msgstr ""
+
+#: unmute.py:212
+msgid "Successfully unmuted!"
+msgstr ""
+
+#: unmute.py:213
+msgid "{members} can now chill with us!"
+msgstr ""
+
+#: unmute.py:217 unmute.py:220
+msgid "Reason:"
+msgstr ""
+
+#: unmute.py:224
+msgid "Unmuted"
+msgstr ""
+

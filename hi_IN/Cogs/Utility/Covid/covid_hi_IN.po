@@ -1,0 +1,83 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-21 19:11+0530\n"
+"PO-Revision-Date: 2022-09-24 14:44+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: covid.py:67
+msgid "Try again after some time."
+msgstr "थोड़ा समय पश्चात पुनः प्रयास करें।"
+
+#: covid.py:67
+msgid "Fetching data..."
+msgstr "आँकड़े लाए जा रहे हैं..."
+
+#: covid.py:82
+msgid "Seems I had a problem. Fetching again."
+msgstr "लगता है आँकड़े लाने में मुझसे पहले कोई त्रुटि हो गई थी। पुनः आँकड़े लाए जा रहे हैं..."
+
+#: covid.py:83
+msgid "If this persists, report in meta server."
+msgstr "यदि यह समस्या का समाधान नही होता है तो कृपया विचारस्थल में सूचित करें।"
+
+#: covid.py:129
+msgid "District `{district}` doesn't exist!"
+msgstr "`{district}` नाम का कोई जिला अस्तित्व में नही है!"
+
+#: covid.py:130
+msgid "Make sure that <correct query steps>."
+msgstr ""
+"सुनिश्चित करें कि :\n"
+"• जिले का अङ्ग्रेजी में पुरा नाम निर्दिष्ट किया जाए,\n"
+"• यदि राज्य निर्दिष्ट किया जा रहा है, तो जिले एवं राज्य का सही संयोजन निर्दिष्ट किया जाए, और\n"
+"• यह याद रखा जाए कि डाकघर क्षेत्र के नाम को जिला नहीं कहते।"
+
+#: covid.py:148
+msgid "State/UT/District `{location}` doesn't exist!"
+msgstr "`{location}` नाम का कोई राज्य / केन्द्र-शासित प्रदेश / जिला अस्तित्व में नही है!"
+
+#: covid.py:149
+msgid "If district, use full name and no P.O."
+msgstr ""
+"यदि आप किसी जिले को ढूँढना चाहते हैं, तो उसका अङ्ग्रेजी में पुरा नाम (अंग्रेजी में) दें, और याद रखें कि डाकघर क्षेत्र के नाम को जिला नहीं कहते।"
+
+#: covid.py:164
+msgid "COVID-19 statistics for {district}, {state}"
+msgstr "{district}, {state} के कोविड-१९ आँकड़े"
+
+#: covid.py:167
+msgid "COVID-19 statistics for India"
+msgstr "भारत के कोविड-१९ आँकड़े"
+
+#: covid.py:169
+msgid "COVID-19 statistics for {state}"
+msgstr "{state} के कोविड-१९ आँकड़े"
+
+#: covid.py:172
+msgid "Take precaution. Vaccinate. Don't panic."
+msgstr ""
+"• सहयोग करें और अनुरूप व्यवहारों का पालन करें।\n"
+"• अपने आस-पास टीकाकरण प्रोत्साहित करें।\n"
+"• घबराहट और गलत सूचनाओं के झाँसे में न आएँ।"
+
+#: covid.py:178
+msgid "Last fetched from API {some_time_ago}."
+msgstr "सारणी से {some_time_ago} लाया गया।"
+
+#~ msgid "."
+#~ msgstr "।"

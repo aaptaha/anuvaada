@@ -1,0 +1,79 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-07 16:38+0530\n"
+"PO-Revision-Date: 2021-08-07 16:39+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+
+#: betflip.py:64
+msgid ""
+"Please bet some money.\n"
+"Ain't getting free money, {fool}."
+msgstr ""
+"कृपया द्यूत में थोड़ा पैसा लगाओ।\n"
+"तुम्हें मुफ़्त में कोई पैसा नही मिलने वाला, {fool}।"
+
+#: betflip.py:70 betflip.py:116
+msgid "heads"
+msgstr "चित्त"
+
+#: betflip.py:72 betflip.py:116
+msgid "tails"
+msgstr "पट्ट"
+
+#: betflip.py:74
+msgid "You're tossing a coin. Specify heads/tails, {fool}."
+msgstr ""
+"तुम सिक्का उछाल रहे हो।\n"
+"चित्त या पट्ट में से कुछ तो बताओ, {fool}।"
+
+#: betflip.py:96
+msgid "You are broke, {fool}."
+msgstr "{fool} तुम तो सड़क पर आ जाओगे।"
+
+#: betflip.py:97
+msgid "You only have ₹{money}."
+msgstr "तुम्हारे पास केवल ₹{money} हैं।"
+
+#: betflip.py:108
+msgid "Tossing"
+msgstr "उछल रहा है"
+
+#: betflip.py:109
+msgid "Tossed"
+msgstr "उछाला गया"
+
+#: betflip.py:141
+msgid "Congratulations!"
+msgstr "बधाई हो!"
+
+#: betflip.py:142 betflip.py:154
+msgid "It's a {result}!"
+msgstr "{result} आया है!"
+
+#: betflip.py:143
+msgid "You bet ₹{amount} and won ₹{won}!"
+msgstr "आपने ₹{amount} का दाँव लगाया और ₹{won} जीत गए!"
+
+#: betflip.py:153
+msgid "Ouch!"
+msgstr "ओफ़्फ़ो"
+
+#: betflip.py:155
+msgid "Told you gambling is bad."
+msgstr "बोला था सट्टेबाज़ी मत करो।"

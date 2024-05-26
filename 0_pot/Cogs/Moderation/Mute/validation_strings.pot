@@ -1,0 +1,83 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:52+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: validation_strings.py:24
+msgid "Who are you muting, {fool}?"
+msgstr ""
+
+#: validation_strings.py:27
+msgid "Not muting myself. Why mute me :("
+msgstr ""
+
+#: validation_strings.py:30
+msgid "{owner}, {member} wanna get muted. I've got no perms."
+msgstr ""
+
+#: validation_strings.py:35
+msgid "Why?...... Okay, mute yourself."
+msgstr ""
+
+#: validation_strings.py:38
+msgid "I cannot mute {member}, promote me."
+msgstr ""
+
+#: validation_strings.py:41
+msgid "You cannot mute {member}, get a promotion."
+msgstr ""
+
+#: validation_strings.py:44
+msgid "Cannot mute anyone mentioned! :("
+msgstr ""
+
+#: validation_strings.py:47
+msgid "{user} gave no reason for muting."
+msgstr ""
+
+#: validation_strings.py:68
+msgid "Who are you unmuting, {fool}?"
+msgstr ""
+
+#: validation_strings.py:71
+msgid "I am not gonna change my permissions myself."
+msgstr ""
+
+#: validation_strings.py:74
+msgid "{owner}, {member} wanna get unmuted. I've got no perms."
+msgstr ""
+
+#: validation_strings.py:79
+msgid "Why?...... Okay, unmute yourself."
+msgstr ""
+
+#: validation_strings.py:82
+msgid "I cannot unmute {member}, promote me."
+msgstr ""
+
+#: validation_strings.py:85
+msgid "You cannot unmute {member}, get a promotion."
+msgstr ""
+
+#: validation_strings.py:88
+msgid "Cannot unmute anyone mentioned! :("
+msgstr ""
+
+#: validation_strings.py:91
+msgid "{user} gave no reason for unmuting."
+msgstr ""
+

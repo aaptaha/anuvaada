@@ -1,0 +1,194 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-05 22:02+0530\n"
+"PO-Revision-Date: 2021-08-06 21:51+0530\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_IN\n"
+
+#: import_emojis.py:24
+msgid "You have already started an import in another server. Wait."
+msgstr "You have already started an import in another server. Be patient."
+
+#: import_emojis.py:32
+msgid ""
+"Yo {fool}, either\n"
+"Wrong server\n"
+"No export cmd\n"
+"Late."
+msgstr ""
+"Yo {fool}, either\n"
+"(1) You are in the wrong server, or\n"
+"(2) You didn't run `export` on any other server, or\n"
+"(3) You're a slo-mo and are too late."
+
+#: import_emojis.py:39
+msgid "Yo {fool}"
+msgstr "Yo {fool}"
+
+#: import_emojis.py:41
+msgid ""
+"\n"
+"(1) In wrong server, and\n"
+"(2) Importing already."
+msgstr ""
+"\n"
+"(1) You are in the wrong server, and\n"
+"(2) You have already started importing in the correct server."
+
+#: import_emojis.py:43
+msgid "you are in the wrong server."
+msgstr "you are in the wrong server."
+
+#: import_emojis.py:48
+msgid ""
+"Already started the import process!\n"
+"Are you okay?"
+msgstr ""
+"You have already started the import process!\n"
+"Are you okay? Eat some aamla!"
+
+#: import_emojis.py:61
+msgid ""
+"Weird... Can't find server with ID {ID}.\n"
+"Make sure no rem."
+msgstr ""
+"This is weird... I cannot find the server with ID {ID}.\n"
+"Make sure that I'm not removed from any server during this process."
+
+#: import_emojis.py:72
+msgid ""
+"Can't access {server}!\n"
+"Make sure no remove."
+msgstr ""
+"I cannot access {server}!\n"
+"Make sure that I'm not removed from any server during this process."
+
+#: import_emojis.py:80
+msgid ""
+"Lol {fool}, {server} has no custom emoji!\n"
+"Pranked by mod."
+msgstr ""
+"Lol {fool}, {server} has no custom emoji!\n"
+"Some mod is pranking you and removed them after your export request."
+
+#: import_emojis.py:103
+msgid "You/me/both don't have access to any emoji on {server}!"
+msgstr "Either (or both) of us don't have access to any emoji on {server}!"
+
+#: import_emojis.py:110
+msgid "More than 50 emojis to add!"
+msgstr "More than 50 emojis to add!"
+
+#. TRANSLATORS: This can be markdown.
+#: import_emojis.py:112
+msgid "Disclaimer about ratelimit."
+msgstr ""
+"[Discord places a prohibitive dynamic rate-limit on emoji addition](https://discord.com/developers/docs/resources/emoji). Mostly, I get rate-limited for an hour after adding 50 emojis.\n"
+"\n"
+"Since I cannot bypass it, I need to pause for an hour after adding 50 emojis. After an hour, I will automatically resume and start adding the next 50 emojis. __*You don't need to do anything, just fire and forget.*__"
+
+#: import_emojis.py:113
+msgid "Also, don't add more emojis while the process in progress."
+msgstr "Since I'm handling the addition, please don't add more emojis until the process ends, as emoji slots may get full and you'll not get all the emojis."
+
+#: import_emojis.py:114
+msgid "To continue, react with 👍 under 30 seconds."
+msgstr "To continue, react with 👍 under 30 seconds."
+
+#: import_emojis.py:133
+msgid "Since you didn't react, I'm not going to continue."
+msgstr "Since you didn't react, I'm not going to continue."
+
+#: import_emojis.py:141
+msgid "Do you want to prepend/append to all emoji names?"
+msgstr "Do you want to prepend or append something to all the emoji names?"
+
+#: import_emojis.py:142
+msgid "React (10s) ☑️ prepend / ✅ append / ❎ if not."
+msgstr ""
+"React under 10 seconds with\n"
+"☑️ to prepend, or\n"
+"✅ to append, or\n"
+"❎ to not touch the names."
+
+#: import_emojis.py:170
+msgid "Send prefix under 20s."
+msgstr "Send what you want to prefix to all names, under 20 seconds."
+
+#: import_emojis.py:173
+msgid "Send suffix under 20s."
+msgstr "Send what you want to suffix to all names, under 20 seconds."
+
+#: import_emojis.py:182
+msgid "Seems like you're a slo-mo. Continuing w/o modifying name."
+msgstr "Seems like you're a slo-mo. Continuing without modifying emoji names."
+
+#: import_emojis.py:187
+msgid ""
+"Emoji name must be alphanum!\n"
+"Allowed chars [a-zA-Z0-9_]+."
+msgstr ""
+"Emoji name must be alphanumeric!\n"
+"Allowed characters are: ```\n"
+"- ASCII letters (a-z, A-Z)\n"
+"- Numbers (0-9)\n"
+"- Underscore (_)\n"
+"```"
+
+#: import_emojis.py:198
+msgid "Okay, please wait. Adding the emojis..."
+msgstr "Okay, please wait. Adding the emojis..."
+
+#. TRANSLATORS: This is for emoji type, used in subsequent strings
+#: import_emojis.py:212
+msgid "animated"
+msgstr "animated"
+
+#: import_emojis.py:212
+msgid "static"
+msgstr "static"
+
+#: import_emojis.py:215
+msgid "Can't add more {type} emojis; slots full; Stopped."
+msgstr ""
+"I cannot add more {type} emojis, since slots are now full.\n"
+"Stopped adding {type} emojis."
+
+#: import_emojis.py:234
+msgid "Probably hit the ratelimit. Resuming after 1h."
+msgstr "I have probably hit the rate limit now. As was explained earlier, I'll resume adding after an hour."
+
+#: import_emojis.py:242
+msgid "Encountered an error. Report in Meta server."
+msgstr "Encountered an error. Report in Meta server, since this shouldn't have happened!"
+
+#. TRANSLATORS: Here em is an actual emoji is used.
+#: import_emojis.py:248 import_emojis.py:257
+msgid "Cannot add {emoji}."
+msgstr "Cannot add {emoji}."
+
+#: import_emojis.py:269
+msgid "Added new emojis!"
+msgstr "Added new emojis!"
+
+#: import_emojis.py:271
+msgid "Added"
+msgstr "Added"
+
+#: import_emojis.py:273
+msgid "Cannot add any emoji :("
+msgstr "Cannot add any emoji :("

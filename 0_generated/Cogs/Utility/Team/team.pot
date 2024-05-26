@@ -1,0 +1,75 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-20 23:39+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#. TRANSLATORS: `team` here is the noun used for a team/group.
+#: team.py:47
+msgid "Specify at beginning how many players in {team}"
+msgstr ""
+
+#: team.py:53
+msgid "negative number of players."
+msgstr ""
+
+#: team.py:58
+msgid "{fool}, a `{team}` is made of two or more players."
+msgstr ""
+
+#: team.py:64
+msgid "`{team}` is of members, {fool}. Mention roles/members."
+msgstr ""
+
+#: team.py:77
+msgid "yes"
+msgstr ""
+
+#: team.py:78
+msgid "Add more members? Reply with {yes}. Waiting for 5s."
+msgstr ""
+
+#: team.py:90
+msgid "Alright, sorry for the delay."
+msgstr ""
+
+#: team.py:92
+msgid "Okay, please mention them in 60s."
+msgstr ""
+
+#: team.py:98
+msgid "Lol slomo, please prepare in advance. Thanks."
+msgstr ""
+
+#: team.py:106
+msgid "Expected mentions. Nvm, expected too much from you."
+msgstr ""
+
+#: team.py:122
+msgid "Too low members to do fair division. Learn basic maths."
+msgstr ""
+
+#. TRANSLATORS: Consult the invoke cmd with dev for appropriate plural
+#: team.py:128
+msgid ""
+"Cannot divide {num_members} members into {teams}s consisting of "
+"{num_players} members each."
+msgstr ""
+
+#: team.py:140
+msgid "{team}ed up!"
+msgstr ""
+

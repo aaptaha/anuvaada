@@ -1,0 +1,24 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2024 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2024-05-26 19:34+0530\n"
+"PO-Revision-Date: 2024-05-26 19:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: embed_perms.py:54
+msgid "Need embed perms."
+msgstr "मुझे संदेश भेजने के लिए `ऍम्बॅड लिंक्स` के अधिकार चाहिए, क्योंकि मेरे अधिकतर संदेश ऍम्बॅड के रूप में होते हैं।"

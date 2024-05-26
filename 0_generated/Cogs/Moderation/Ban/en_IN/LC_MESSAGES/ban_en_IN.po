@@ -1,0 +1,178 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2021-10-25 16:53+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ban.py:46
+msgid "{fool} mod, give `ban members` perm."
+msgstr "{fool} mod, gimme `ban members` permission first."
+
+#: ban.py:90
+msgid "How many days worth of messages to delete?"
+msgstr "How many days worth of messages to delete?"
+
+#: ban.py:91
+msgid "You can choose to"
+msgstr "You can choose to"
+
+#: ban.py:92
+msgid "not notify members (press before day buttons), or"
+msgstr ""
+"not notify the members (currently in the server) about their ban (press it "
+"before choosing days), or"
+
+#: ban.py:93
+msgid "cancel the process of banning."
+msgstr "cancel the process of banning."
+
+#: ban.py:94
+msgid "Use the buttons under 10 seconds."
+msgstr "Use the buttons under 10 seconds."
+
+#: ban.py:95
+msgid "The default is 0 days."
+msgstr "The default is 0 days."
+
+#: ban.py:143
+msgid "Will not message the users about banning."
+msgstr "Will not message the users about banning."
+
+#: ban.py:154
+msgid "0 days"
+msgstr "0 days"
+
+#. TRANSLATORS: Used the unicode separators to increase button length. You may
+#. not require using them if plural and singular string lengths are same.  #
+#. noqa: E501
+#: ban.py:159
+msgid "  1 day  "
+msgstr "  1 day  "
+
+#: ban.py:163
+msgid "2 days"
+msgstr "2 days"
+
+#: ban.py:167
+msgid "3 days"
+msgstr "3 days"
+
+#: ban.py:171
+msgid "4 days"
+msgstr "4 days"
+
+#: ban.py:175
+msgid "5 days"
+msgstr "5 days"
+
+#: ban.py:179
+msgid "6 days"
+msgstr "6 days"
+
+#: ban.py:183
+msgid "7 days"
+msgstr "7 days"
+
+#: ban.py:188
+msgid "Don't msg them"
+msgstr "Don't msg them"
+
+#: ban.py:195
+msgid "Cancel banning"
+msgstr "Cancel banning"
+
+#: ban.py:216
+msgid ""
+"Slow down on your trigger-happiness.\n"
+"Not banning."
+msgstr ""
+"Slow down on your trigger-happiness.\n"
+"Not banning the poor guy subjected to your torture."
+
+#: ban.py:229
+msgid ""
+"You have been banned from {guild} for:\n"
+"{reason}"
+msgstr ""
+"You have been banned from {guild} for:\n"
+"{reason}"
+
+#: ban.py:247 ban.py:267
+msgid "{fool}, why take away ban perm from me?"
+msgstr ""
+"{fool}, why take away ban permission from me when you have instructed me to "
+"ban people?"
+
+#: ban.py:252 ban.py:272
+msgid "Banning failed. Please report in the Meta server!"
+msgstr "Banning failed. Please report in the Meta server!"
+
+#: ban.py:285
+msgid "Days worth of messages deleted"
+msgstr "Days worth of messages deleted"
+
+#: ban.py:289
+msgid "Days worth of messages deleted for each"
+msgstr "Days worth of messages deleted for each"
+
+#: ban.py:293
+msgid "Banned successfully!"
+msgstr "Banned successfully!"
+
+#: ban.py:294
+msgid "Banned"
+msgstr "Banned"
+
+#: ban.py:302
+msgid "Banned users:"
+msgstr "Banned users:"
+
+#: ban.py:303
+msgid "Banned user IDs:"
+msgstr "Banned user IDs:"
+
+#: ban.py:310
+msgid "Too many people banned!"
+msgstr "Too many people banned!"
+
+#: ban.py:312
+msgid "Users"
+msgstr "Users"
+
+#: ban.py:312
+msgid "User"
+msgstr "User"
+
+#: ban.py:315
+msgid "IDs"
+msgstr "IDs"
+
+#: ban.py:315
+msgid "ID"
+msgstr "ID"
+
+#: ban.py:318
+msgid "Reason"
+msgstr "Reason"
+
+#~ msgid "ban"
+#~ msgstr "ban"
+
+#~ msgid "bann"
+#~ msgstr "bann"

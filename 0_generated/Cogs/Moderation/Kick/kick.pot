@@ -1,0 +1,77 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: kick.py:37
+msgid "{fool} mod, give `kick members` perm."
+msgstr ""
+
+#: kick.py:55
+msgid ""
+"You have been kicked from {guild} for:\n"
+"{reason}"
+msgstr ""
+
+#: kick.py:72
+msgid "{fool}, why take away kick perm from me?"
+msgstr ""
+
+#: kick.py:77
+msgid "Kicking failed. Please report in the Meta server!"
+msgstr ""
+
+#: kick.py:92
+msgid "Kicked successfully!"
+msgstr ""
+
+#: kick.py:93
+msgid "Kicked"
+msgstr ""
+
+#: kick.py:101
+msgid "Kicked users:"
+msgstr ""
+
+#: kick.py:102
+msgid "Kicked user IDs:"
+msgstr ""
+
+#: kick.py:109
+msgid "Too many people kicked!"
+msgstr ""
+
+#: kick.py:111
+msgid "Users"
+msgstr ""
+
+#: kick.py:111
+msgid "User"
+msgstr ""
+
+#: kick.py:114
+msgid "IDs"
+msgstr ""
+
+#: kick.py:114
+msgid "ID"
+msgstr ""
+
+#: kick.py:117
+msgid "Reason"
+msgstr ""
+

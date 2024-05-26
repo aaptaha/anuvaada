@@ -1,0 +1,62 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-20 23:33+0530\n"
+"PO-Revision-Date: 2022-09-24 14:44+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: fetch_member.py:33 fetch_member.py:76
+msgid "No member found in the server with ID `{id}`."
+msgstr "दिए गए उपाभिधान (`{id}`) का कोई सदस्य सङ्घ में नही मिला।"
+
+#: fetch_member.py:36
+msgid "No member found in the server with name `{name}`."
+msgstr "दिए गए नाम (`{name}`) का कोई सदस्य सङ्घ में नही मिला।"
+
+#: fetch_member.py:37 fetch_member.py:53
+msgid "Note that names are case-sensitive!"
+msgstr "ध्यान दें कि नाम पक्षानुगुण हैं।"
+
+#: fetch_member.py:40 fetch_member.py:90 fetch_member.py:100
+msgid "Unexpected. Unable to process. Kindly report."
+msgstr ""
+"यह नहीं होना चाहिए था... मैं निर्देश को संसाधित करने में असमर्थ हूँ। \n"
+"\n"
+"कृपया विचारस्थल में सूचित करें। 🙏"
+
+#: fetch_member.py:52
+msgid "No member found in the server cache with name `{name}`."
+msgstr "दिए गए नाम (`{name}`) का कोई सदस्य सङ्घ की उपस्मृति में नही मिला।"
+
+#: fetch_member.py:54
+msgid "Use ID or just mention them."
+msgstr "सदस्य के उपाभिधान से प्रयास करें, या तो सीधा उन्हें टङ्कित करें।"
+
+#: fetch_member.py:62
+msgid "Yall are spamming IDs not in server."
+msgstr "आप सब ऐसे उपाभिधान भेजे जा रहें हैं जो सङ्घ में नही है।"
+
+#: fetch_member.py:63
+msgid "Please try after some time to avoid API abuse."
+msgstr "कृपया थोड़ा समय पश्चात प्रयास करें जिससे अनुविधिमध्य का अतिक्रमण न हो।"
+
+#: fetch_member.py:83
+msgid "Discord not allowing access. Kindly report."
+msgstr ""
+"डिस्कॉर्ड मुझे सङ्घ देखने की अनुमति नहीं दे रहा है...\n"
+"\n"
+"कृपया विचारस्थल में सूचित करें। 🙏"

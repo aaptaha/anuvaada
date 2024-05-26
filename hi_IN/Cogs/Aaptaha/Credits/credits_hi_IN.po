@@ -1,0 +1,44 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-07-31 12:23+0530\n"
+"PO-Revision-Date: 2021-07-31 12:47+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: credits.py:28
+msgid "**Credits**"
+msgstr "**श्रेय**"
+
+#: credits.py:30
+msgid "**Developer**"
+msgstr "**निर्माता**"
+
+#: credits.py:30
+msgid "Gouenji Shuuya"
+msgstr "गॊऎञ्जी शूऽया"
+
+#: credits.py:32
+msgid "**Translator**"
+msgstr "**अनुवादक**"
+
+#: credits.py:33
+msgid "English and Hindi by Gouenji Shuuya."
+msgstr "गॊऎञ्जी शूऽया द्वारा अङ्ग्रेजी एवं हिन्दी ।"
+
+#: credits.py:35
+msgid "**Peacock base**"
+msgstr "**मयूर की मूल छवि**"

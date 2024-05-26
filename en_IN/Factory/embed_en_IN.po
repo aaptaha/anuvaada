@@ -1,0 +1,36 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2024 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2024-05-26 19:31+0530\n"
+"PO-Revision-Date: 2024-05-26 20:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: embed.py:86
+msgid "plz [vote and review]({link}) :-)"
+msgstr "If you like, please [vote and review me]({link})! :-)"
+
+#: embed.py:98
+msgid "Attempted"
+msgstr "Attempted"
+
+#: embed.py:98
+msgid "Requested"
+msgstr "Requested"
+
+#: embed.py:100
+msgid "{footer_action} by {name}."
+msgstr "{footer_action} by {name}."

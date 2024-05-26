@@ -1,0 +1,88 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2024-07-06 17:15+0530\n"
+"PO-Revision-Date: 2024-07-06 17:20+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply."
+"github.com>\n"
+"Language-Team: English\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: about.py:25
+msgid "Vasanta"
+msgstr "Vasanta"
+
+#: about.py:26
+msgid "Greeshma"
+msgstr "Greeshma"
+
+#: about.py:27
+msgid "Varshaa"
+msgstr "Varshaa"
+
+#: about.py:28
+msgid "Sharad"
+msgstr "Sharad"
+
+#: about.py:29
+msgid "Hemanta"
+msgstr "Hemanta"
+
+#: about.py:30
+msgid "Shishira"
+msgstr "Shishira"
+
+#: about.py:32
+msgid "**About me**"
+msgstr "**About me**"
+
+#: about.py:34
+msgid "Namaste! Aaptaha caters with Indian tinge. Use `help`."
+msgstr ""
+"Namaste! Aaptaha caters to the general Discord audience with an Indian tinge "
+"and languages. Check the `help` command to see numerous commands related to "
+"fun, utility, server management, and much more!"
+
+#: about.py:43
+msgid "**Release**"
+msgstr "**Release**"
+
+#: about.py:46
+msgid "**Servers serving**"
+msgstr "**Servers serving**"
+
+#: about.py:49
+msgid "**Unique users**"
+msgstr "**Unique users**"
+
+#: about.py:51
+msgid "Join here"
+msgstr "Join here"
+
+#: about.py:52
+msgid "**Aaptaha (Meta)**"
+msgstr "**Aaptaha (Meta)**"
+
+#: about.py:54 about.py:57
+msgid "Github"
+msgstr "Github"
+
+#: about.py:55
+msgid "**Help translate**"
+msgstr "**Help in translating!**"
+
+#: about.py:58
+msgid "**ToS & Privacy**"
+msgstr "**ToS & Privacy**"

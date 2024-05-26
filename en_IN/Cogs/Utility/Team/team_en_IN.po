@@ -1,0 +1,95 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-"
+"translations\n"
+"POT-Creation-Date: 2022-01-20 23:39+0530\n"
+"PO-Revision-Date: 2022-01-21 17:05+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users."
+"noreply.github.com>\n"
+"Language-Team: \n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. TRANSLATORS: `team` here is the noun used for a team/group.
+#: team.py:47
+msgid "Specify at beginning how many players in {team}"
+msgstr ""
+"Please specify (at the beginning) how many players should be "
+"there in a {team}."
+
+#: team.py:53
+msgid "negative number of players."
+msgstr ""
+"You might be dumb enough to think there can be a negative "
+"quantity (number of players), but I am not."
+
+#: team.py:58
+msgid "{fool}, a `{team}` is made of two or more players."
+msgstr ""
+"{fool}, a `{team}` is made up of two or more players!\n"
+"You've never been in one, I guess."
+
+#: team.py:64
+msgid "`{team}` is of members, {fool}. Mention roles/members."
+msgstr ""
+"A `{team}` is made up of members, {fool}.\n"
+"Please mention the roles and/or members to consider for pooling."
+
+#: team.py:77
+msgid "yes"
+msgstr "yes"
+
+#: team.py:78
+msgid "Add more members? Reply with {yes}. Waiting for 5s."
+msgstr ""
+"Do you want to add more members?\n"
+"Reply with {yes} if you want to.\n"
+"Waiting for 5 seconds..."
+
+#: team.py:90
+msgid "Alright, sorry for the delay."
+msgstr "Alright, sorry for the delay."
+
+#: team.py:92
+msgid "Okay, please mention them in 60s."
+msgstr "Okay, please mention those members, under 60 seconds."
+
+#: team.py:98
+msgid "Lol slomo, please prepare in advance. Thanks."
+msgstr "Lol slomo, please prepare in advance. Thanks."
+
+#: team.py:106
+msgid "Expected mentions. Nvm, expected too much from you."
+msgstr ""
+"I expected mentions of people...\n"
+"Nvm, it seems I expected too much from you."
+
+#: team.py:122
+msgid "Too low members to do fair division. Learn basic maths."
+msgstr ""
+"Too low members to do a fair division.\n"
+"Go study basic maths. Khan Academy is a nice source."
+
+#. TRANSLATORS: Consult the invoke cmd with dev for appropriate plural
+#: team.py:128
+msgid ""
+"Cannot divide {num_members} members into {teams}s consisting of "
+"{num_players} members each."
+msgstr ""
+"Cannot divide {num_members} members into {teams}s consisting of "
+"{num_players} members each."
+
+#: team.py:140
+msgid "{team}ed up!"
+msgstr "{team}ed up!"

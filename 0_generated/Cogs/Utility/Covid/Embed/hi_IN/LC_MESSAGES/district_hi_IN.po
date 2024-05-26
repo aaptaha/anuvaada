@@ -1,0 +1,44 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2022 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2022-01-20 23:36+0530\n"
+"PO-Revision-Date: 2022-01-21 19:22+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: district.py:29
+msgid "Week"
+msgstr "सप्ताह"
+
+#: district.py:34
+msgid "Weekly positivity rate"
+msgstr "साप्ताहिक सक्रियता दर"
+
+#: district.py:40
+msgid "Share of RTPCR samples"
+msgstr "आर॰टी॰पी॰सी॰आर परीक्षणों का भाग"
+
+#: district.py:46
+msgid "Share of RAT samples"
+msgstr "आर॰ए॰टी॰आर परीक्षणों का भाग"
+
+#: district.py:52
+msgid "Number of vaccination centers"
+msgstr "टीकाकरण केन्द्रों की सङ्ख्या"
+
+#: district.py:62
+msgid "API last updated on"
+msgstr "सारणी का पिछला नवीकरण"

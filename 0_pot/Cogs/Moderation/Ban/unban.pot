@@ -1,0 +1,105 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: unban.py:31
+msgid ""
+"User ID(s)???\n"
+"Ghosts cannot be unbanned."
+msgstr ""
+
+#: unban.py:37
+msgid "{fool} mod, give `ban members` perm."
+msgstr ""
+
+#: unban.py:54
+msgid "User with ID {user_id} is not banned / exist."
+msgstr ""
+
+#: unban.py:68
+msgid "Cannot find anyone who's banned out of the given IDs :("
+msgstr ""
+
+#: unban.py:78
+msgid "No reason, why? Bad mod. Apologise to the users."
+msgstr ""
+
+#: unban.py:79
+msgid "{author} renders an unconditional apology on behalf of {guild}."
+msgstr ""
+
+#: unban.py:95
+msgid "No reason given."
+msgstr ""
+
+#: unban.py:101
+msgid "{fool}, why take away ban perm from me?"
+msgstr ""
+
+#: unban.py:106
+msgid "Unbanning failed. Please report in the Meta server!"
+msgstr ""
+
+#: unban.py:130
+msgid "Unbanned successfully!"
+msgstr ""
+
+#: unban.py:131
+msgid "Unbanned"
+msgstr ""
+
+#: unban.py:138
+msgid "Unbanned users:"
+msgstr ""
+
+#: unban.py:139
+msgid "Unbanned user IDs:"
+msgstr ""
+
+#: unban.py:146
+msgid "Too many people unbanned!"
+msgstr ""
+
+#: unban.py:148
+msgid "Users"
+msgstr ""
+
+#: unban.py:148
+msgid "User"
+msgstr ""
+
+#: unban.py:151
+msgid "IDs"
+msgstr ""
+
+#: unban.py:151
+msgid "ID"
+msgstr ""
+
+#: unban.py:156
+msgid "Reasons for ban"
+msgstr ""
+
+#: unban.py:156
+msgid "Reason for ban"
+msgstr ""
+
+#: unban.py:160
+msgid "Reason for unban"
+msgstr ""
+

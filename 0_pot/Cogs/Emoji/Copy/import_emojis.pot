@@ -1,0 +1,163 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-08-05 22:02+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: import_emojis.py:24
+msgid "You have already started an import in another server. Wait."
+msgstr ""
+
+#: import_emojis.py:32
+msgid ""
+"Yo {fool}, either\n"
+"Wrong server\n"
+"No export cmd\n"
+"Late."
+msgstr ""
+
+#: import_emojis.py:39
+msgid "Yo {fool}"
+msgstr ""
+
+#: import_emojis.py:41
+msgid ""
+"\n"
+"(1) In wrong server, and\n"
+"(2) Importing already."
+msgstr ""
+
+#: import_emojis.py:43
+msgid "you are in the wrong server."
+msgstr ""
+
+#: import_emojis.py:48
+msgid ""
+"Already started the import process!\n"
+"Are you okay?"
+msgstr ""
+
+#: import_emojis.py:61
+msgid ""
+"Weird... Can't find server with ID {ID}.\n"
+"Make sure no rem."
+msgstr ""
+
+#: import_emojis.py:72
+msgid ""
+"Can't access {server}!\n"
+"Make sure no remove."
+msgstr ""
+
+#: import_emojis.py:80
+msgid ""
+"Lol {fool}, {server} has no custom emoji!\n"
+"Pranked by mod."
+msgstr ""
+
+#: import_emojis.py:103
+msgid "You/me/both don't have access to any emoji on {server}!"
+msgstr ""
+
+#: import_emojis.py:110
+msgid "More than 50 emojis to add!"
+msgstr ""
+
+#. TRANSLATORS: This can be markdown.
+#: import_emojis.py:112
+msgid "Disclaimer about ratelimit."
+msgstr ""
+
+#: import_emojis.py:113
+msgid "Also, don't add more emojis while the process in progress."
+msgstr ""
+
+#: import_emojis.py:114
+msgid "To continue, react with 👍 under 30 seconds."
+msgstr ""
+
+#: import_emojis.py:133
+msgid "Since you didn't react, I'm not going to continue."
+msgstr ""
+
+#: import_emojis.py:141
+msgid "Do you want to prepend/append to all emoji names?"
+msgstr ""
+
+#: import_emojis.py:142
+msgid "React (10s) ☑️ prepend / ✅ append / ❎ if not."
+msgstr ""
+
+#: import_emojis.py:170
+msgid "Send prefix under 20s."
+msgstr ""
+
+#: import_emojis.py:173
+msgid "Send suffix under 20s."
+msgstr ""
+
+#: import_emojis.py:182
+msgid "Seems like you're a slo-mo. Continuing w/o modifying name."
+msgstr ""
+
+#: import_emojis.py:187
+msgid ""
+"Emoji name must be alphanum!\n"
+"Allowed chars [a-zA-Z0-9_]+."
+msgstr ""
+
+#: import_emojis.py:198
+msgid "Okay, please wait. Adding the emojis..."
+msgstr ""
+
+#. TRANSLATORS: This is for emoji type, used in subsequent strings
+#: import_emojis.py:212
+msgid "animated"
+msgstr ""
+
+#: import_emojis.py:212
+msgid "static"
+msgstr ""
+
+#: import_emojis.py:215
+msgid "Can't add more {type} emojis; slots full; Stopped."
+msgstr ""
+
+#: import_emojis.py:234
+msgid "Probably hit the ratelimit. Resuming after 1h."
+msgstr ""
+
+#: import_emojis.py:242
+msgid "Encountered an error. Report in Meta server."
+msgstr ""
+
+#. TRANSLATORS: Here em is an actual emoji is used.
+#: import_emojis.py:248 import_emojis.py:257
+msgid "Cannot add {emoji}."
+msgstr ""
+
+#: import_emojis.py:269
+msgid "Added new emojis!"
+msgstr ""
+
+#: import_emojis.py:271
+msgid "Added"
+msgstr ""
+
+#: import_emojis.py:273
+msgid "Cannot add any emoji :("
+msgstr ""
+

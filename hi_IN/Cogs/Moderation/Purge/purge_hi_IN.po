@@ -1,0 +1,66 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-23 19:07+0530\n"
+"PO-Revision-Date: 2021-10-25 19:01+0530\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: Purge/purge.py:61
+msgid "{fool} mod, give `manage messages` perm."
+msgstr "{fool} नियामक, पहले मुझे `सन्देश प्रबन्धन` के अधिकार दो।"
+
+#: Purge/purge.py:67
+msgid "{fool} mod, give `read message history` perm."
+msgstr "{fool} नियामक, पहले मुझे `सन्देश इतिहास पढ़ने` की अनुमति दो।"
+
+#: Purge/purge.py:74
+msgid ""
+"How many messages to delete?\n"
+"Why do you have the perms?"
+msgstr ""
+"कितने सन्देश मिटाने हैं?\n"
+"तुम्हारे पास यह निदेश उपयोग करने की अनुमति क्यों है?"
+
+#: Purge/purge.py:78
+msgid "Avoid nuking. Use after 1000 msg purge."
+msgstr ""
+"प्रणाली उड़ाने से बचें।\n"
+"यदि आवश्यक हो, तो इस निदेश का पुनः उपयोग एक प्राथमिक १००० सन्देशों के निरसन *के बाद* करें।"
+
+#: Purge/purge.py:154
+msgid "Purged succesfully!"
+msgstr "सफलतापूर्वक निरसन किया गया!"
+
+#: Purge/purge.py:158
+msgid "Purged {deleted} msg."
+msgstr "{deleted} सन्देश को मिटाया गया।"
+
+#: Purge/purge.py:160
+msgid "Purged {deleted} msgs."
+msgstr "{deleted} सन्देशों को मिटाया गया।"
+
+#: Purge/purge.py:168
+msgid "Purged a total of {deleted} msg from {members}."
+msgstr "{members} के भेजे हुए कुल {deleted} सन्देश मिटाया गया।"
+
+#: Purge/purge.py:170
+msgid "Purged a total of {deleted} msgs from {members}."
+msgstr "{members} के भेजे हुए कुल {deleted} सन्देशों को मिटाया गया।"
+
+#: Purge/purge.py:178
+msgid "Purged"
+msgstr "शुद्धीकरण"

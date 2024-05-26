@@ -1,0 +1,86 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2024-07-06 17:15+0530\n"
+"PO-Revision-Date: 2024-07-06 17:21+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: about.py:25
+msgid "Vasanta"
+msgstr "वसन्त"
+
+#: about.py:26
+msgid "Greeshma"
+msgstr "ग्रीष्म"
+
+#: about.py:27
+msgid "Varshaa"
+msgstr "वर्षा"
+
+#: about.py:28
+msgid "Sharad"
+msgstr "शरद्"
+
+#: about.py:29
+msgid "Hemanta"
+msgstr "हेमन्त"
+
+#: about.py:30
+msgid "Shishira"
+msgstr "शिशिर"
+
+#: about.py:32
+msgid "**About me**"
+msgstr "**मेरे बारे में**"
+
+#: about.py:34
+msgid "Namaste! Aaptaha caters with Indian tinge. Use `help`."
+msgstr ""
+"नमस्ते! आप्तः डिस्कॉर्ड के उपयोगकर्ताओं की भारतीय अन्दाज़ में सेवा करता है। मज़े, उपयोगिता, सङ्घ प्रबन्धन, "
+"और बहुत कुछ से सम्बन्धित कई निर्देशों को देखने के लिए `सहायता` निर्देश का उपयोग करें!"
+
+#: about.py:43
+msgid "**Release**"
+msgstr "**संस्करण**"
+
+#: about.py:46
+msgid "**Servers serving**"
+msgstr "**सेवाभृत् सङ्घ**"
+
+#: about.py:49
+msgid "**Unique users**"
+msgstr "**उपयोगकर्ता**"
+
+#: about.py:51
+msgid "Join here"
+msgstr "यहाँ जुड़ें"
+
+#: about.py:52
+msgid "**Aaptaha (Meta)**"
+msgstr "**आप्तः (विचारस्थल)**"
+
+#: about.py:54 about.py:57
+msgid "Github"
+msgstr "गिटहब"
+
+#: about.py:55
+msgid "**Help translate**"
+msgstr "**अनुवाद में सहायता करें!**"
+
+#: about.py:58
+msgid "**ToS & Privacy**"
+msgstr "**सेवा एवं गोपनीयता नीति**"

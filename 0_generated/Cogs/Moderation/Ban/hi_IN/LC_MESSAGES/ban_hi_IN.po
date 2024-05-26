@@ -1,0 +1,173 @@
+# Translations template for Aaptaha.
+# Copyright (C) 2021 Gouenji Shuuya
+# This file is distributed under the same license as the Aaptaha Translations project.
+# Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aaptaha Translations\n"
+"Report-Msgid-Bugs-To: https://github.com/aaptaha/aaptaha-translations\n"
+"POT-Creation-Date: 2021-10-25 16:51+0530\n"
+"PO-Revision-Date: 2022-09-24 14:35+0530\n"
+"Last-Translator: Gouenji Shuuya <65014251+gouenji-shuuya@users.noreply.github.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: ban.py:46
+msgid "{fool} mod, give `ban members` perm."
+msgstr "{fool} नियामक, पहले मुझे `सदस्य प्रतिबन्धित करने` की अनुमति दो।"
+
+#: ban.py:90
+msgid "How many days worth of messages to delete?"
+msgstr "इनके पिछले कितने दिनों के सन्देश मिटाऊँ?"
+
+#: ban.py:91
+msgid "You can choose to"
+msgstr "आप चाहें तो"
+
+#: ban.py:92
+msgid "not notify members (press before day buttons), or"
+msgstr "(सङ्घ के वर्तमान) सदस्यों को बिना सूचित करे प्रतिबन्धित कर सकते हैं (दिन चुनने से पहले वह दबाएँ), या तो"
+
+#: ban.py:93
+msgid "cancel the process of banning."
+msgstr "प्रतिबन्ध की प्रक्रिया को ही रद्द कर सकते हैं।"
+
+#: ban.py:94
+msgid "Use the buttons under 10 seconds."
+msgstr "१० सॅकन्ड के अन्दर बटनों का उपयोग करें।"
+
+#: ban.py:95
+msgid "The default is 0 days."
+msgstr "पूर्वन्यस्त व्यवस्था ० दिन की है।"
+
+#: ban.py:143
+msgid "Will not message the users about banning."
+msgstr "सदस्यों को बिना सूचित करे प्रतिबन्धित किया जाएगा।"
+
+#: ban.py:154
+msgid "0 days"
+msgstr "० दिन"
+
+#. TRANSLATORS: Used the unicode separators to increase button length. You may
+#. not require using them if plural and singular string lengths are same.  #
+#. noqa: E501
+#: ban.py:159
+msgid "  1 day  "
+msgstr "१ दिन"
+
+#: ban.py:163
+msgid "2 days"
+msgstr "२ दिन"
+
+#: ban.py:167
+msgid "3 days"
+msgstr "३ दिन"
+
+#: ban.py:171
+msgid "4 days"
+msgstr "४ दिन"
+
+#: ban.py:175
+msgid "5 days"
+msgstr "५ दिन"
+
+#: ban.py:179
+msgid "6 days"
+msgstr "६ दिन"
+
+#: ban.py:183
+msgid "7 days"
+msgstr "७ दिन"
+
+#: ban.py:188
+msgid "Don't msg them"
+msgstr "सूचित न करें"
+
+#: ban.py:195
+msgid "Cancel banning"
+msgstr "प्रतिबन्ध न लगाएँ"
+
+#: ban.py:216
+msgid ""
+"Slow down on your trigger-happiness.\n"
+"Not banning."
+msgstr ""
+"अपने उतावलेपन को कम करो।\n"
+"बेचारे तुम्हारी यातना से परेशान व्यक्ति को प्रतिबन्धित नहीं किया गया।"
+
+#: ban.py:229
+msgid ""
+"You have been banned from {guild} for:\n"
+"{reason}"
+msgstr ""
+"निम्नलिखित कारणवश आपको {guild} से प्रतिबन्धित कर दिया गया है:\n"
+"{reason}"
+
+#: ban.py:247 ban.py:267
+msgid "{fool}, why take away ban perm from me?"
+msgstr "{fool}, जब मुझे प्रतिबन्ध लगाने के लिए कहा है तो क्यों मुझसे वही कार्य करने की अनुमति छीन रहे हो?"
+
+#: ban.py:252 ban.py:272
+msgid "Banning failed. Please report in the Meta server!"
+msgstr "प्रतिबन्ध लगाना विफल रहा। कृपया विचारस्थल में सूचित करें!"
+
+#: ban.py:285
+msgid "Days worth of messages deleted"
+msgstr "पिछले इतने दिनों के सन्देश मिटाए गए"
+
+#: ban.py:289
+msgid "Days worth of messages deleted for each"
+msgstr "प्रत्येक उपयोक्ता के पिछले इतने दिनों के सन्देश मिटाए गए"
+
+#: ban.py:293
+msgid "Banned successfully!"
+msgstr "सफलतापूर्वक प्रतिबन्ध लगाया गया!"
+
+#: ban.py:294
+msgid "Banned"
+msgstr "प्रतिबन्धित"
+
+#: ban.py:302
+msgid "Banned users:"
+msgstr "प्रतिबन्धित उपयोक्ता :"
+
+#: ban.py:303
+msgid "Banned user IDs:"
+msgstr "प्रतिबन्धित उपाभिधान :"
+
+#: ban.py:310
+msgid "Too many people banned!"
+msgstr "बहुत सारे उपयोक्ताओं पर प्रतिबन्ध लगाया गया!"
+
+#: ban.py:312
+msgid "Users"
+msgstr "उपयोक्ता"
+
+#: ban.py:312
+msgid "User"
+msgstr "उपयोक्ता"
+
+#: ban.py:315
+msgid "IDs"
+msgstr "उपाभिधान"
+
+#: ban.py:315
+msgid "ID"
+msgstr "उपाभिधान"
+
+#: ban.py:318
+msgid "Reason"
+msgstr "कारण"
+
+#~ msgid "ban"
+#~ msgstr "प्रतिबन्ध"
+
+#~ msgid "bann"
+#~ msgstr "प्रतिबन्धित"
